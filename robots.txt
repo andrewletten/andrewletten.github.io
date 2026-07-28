@@ -1,1 +1,1 @@
-Sitemap: https://andrewletten.github.io/lettenlab/sitemap.xml
+Sitemap: https://andrewletten.github.io/sitemap.xml

@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Letten Lab</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -32,15 +38,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-189549ecd294ed9837df383a4b42e31c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,8 +85,6 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Letten Lab</span>
     </a>
@@ -146,15 +149,15 @@ ul.task-list li input[type="checkbox"] {
 <p>Orr et al.&nbsp;(2026) <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003898">Growth-density inversion in <em>Escherichia coli</em> reveals superlinear, not sublinear, density dependence</a>, <em>PLoS Biology</em>.</p>
 <p><img src="images/evolvability.png" class="img-fluid"></p>
 <p>Bolourchi et al.&nbsp;(2025) <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2424307122">Evolution and evolvability of rifampicin resistance across the bacterial tree of life</a>, <em>PNAS</em>, 122(31) e2424307122.</p>
-<p><img src="images/makingsense.png" class="img-fluid"></p>
-<p>Letten. (2025) <a href="https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(25)00133-8">Making sense of (sublinear) density dependence</a>, <em>Trends in Ecology &amp; Evolution</em>, 40(7) 622-625.</p>
+<p><img src="images/microdormancy-heatmap.png" class="img-fluid"></p>
+<p>Letten et al.&nbsp;(2024) <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14507">Microbial Dormancy Supports Multi-Species Coexistence Under Resource Fluctuations</a>, <em>Ecology Letters</em>, 27(9) e14507.</p>
 </div><div class="column" style="width:10%;">
 
 </div><div class="column" style="width:45%;">
 <p><img src="images/momentpart.png" class="img-fluid"></p>
 <p>Richardson, Engelstaedter and Letten. (2025) <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2424996122">A unifying principle for multispecies coexistence under resource fluctuations</a>, <em>PNAS</em>, 122(24) e2424996122.</p>
-<p><img src="images/microdormancy-heatmap.png" class="img-fluid"></p>
-<p>Letten et al.&nbsp;(2024) <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14507">Microbial Dormancy Supports Multi-Species Coexistence Under Resource Fluctuations</a>, <em>Ecology Letters</em>, 27(9) e14507.</p>
+<p><img src="images/makingsense.png" class="img-fluid"></p>
+<p>Letten. (2025) <a href="https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(25)00133-8">Making sense of (sublinear) density dependence</a>, <em>Trends in Ecology &amp; Evolution</em>, 40(7) 622-625.</p>
 </div>
 </div>
 
@@ -235,7 +238,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/andrewletten\.github\.io\/lettenlab\/");
+        var filterRegex = new RegExp("https:\/\/andrewletten\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

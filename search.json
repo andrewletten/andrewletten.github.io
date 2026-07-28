@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Publications\nA complete publication list will be added shortly.\nFor now, please see:\n\nGoogle Scholar"
-  },
-  {
     "objectID": "join.html",
     "href": "join.html",
     "title": "Join the Lab",
@@ -42,18 +35,11 @@
     "text": "Contact\na.letten@uq.edu.au"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Letten Lab",
-    "section": "",
-    "text": "Welcome to the Letten Lab at the University of Queensland. Our research broadly aims to increase fundamental understanding of microbial population dynamics and evolution, and to bring this knowledge to bear on problems of environmental and human health. We tackle this through a close integration of experiments, mathematical modelling and statistical learning. Our backgrounds span ecology, evolution, microbiology, bioinformatics, biochemistry, computer science, and mathematics.\nCurrent research in the group primarily orbits around three core research problems/gaps:\n\nUnderstanding how trade-offs in bacterial competitive fitness interact with environmental variability to mediate the evolution of antibiotic resistance.\nUnderstanding the role of nonequilibrium dynamics in regulating microbial community assembly.\nUnderstanding the shape of density dependence, from populations to ecosystems.\n\n\n\nSelect recent work\n\n\n\nOrr et al. (2026) Growth-density inversion in Escherichia coli reveals superlinear, not sublinear, density dependence, PLoS Biology.\n\nBolourchi et al. (2025) Evolution and evolvability of rifampicin resistance across the bacterial tree of life, PNAS, 122(31) e2424307122.\n\nLetten. (2025) Making sense of (sublinear) density dependence, Trends in Ecology & Evolution, 40(7) 622-625.\n\n\n\n\nRichardson, Engelstaedter and Letten. (2025) A unifying principle for multispecies coexistence under resource fluctuations, PNAS, 122(24) e2424996122.\n\nLetten et al. (2024) Microbial Dormancy Supports Multi-Species Coexistence Under Resource Fluctuations, Ecology Letters, 27(9) e14507."
+    "text": "Publications\nA complete publication list will be added shortly.\nFor now, please see:\n\nGoogle Scholar"
   },
   {
     "objectID": "people.html",
@@ -75,5 +61,12 @@
     "title": "Letten Lab",
     "section": "Alumni",
     "text": "Alumni"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Letten Lab",
+    "section": "",
+    "text": "Welcome to the Letten Lab at the University of Queensland. Our research broadly aims to increase fundamental understanding of microbial population dynamics and evolution, and to bring this knowledge to bear on problems of environmental and human health. We tackle this through a close integration of experiments, mathematical modelling and statistical learning. Our backgrounds span ecology, evolution, microbiology, bioinformatics, biochemistry, computer science, and mathematics.\nCurrent research in the group primarily orbits around three core research problems/gaps:\n\nUnderstanding how trade-offs in bacterial competitive fitness interact with environmental variability to mediate the evolution of antibiotic resistance.\nUnderstanding the role of nonequilibrium dynamics in regulating microbial community assembly.\nUnderstanding the shape of density dependence, from populations to ecosystems.\n\n\n\nSelect recent work\n\n\n\nOrr et al. (2026) Growth-density inversion in Escherichia coli reveals superlinear, not sublinear, density dependence, PLoS Biology.\n\nBolourchi et al. (2025) Evolution and evolvability of rifampicin resistance across the bacterial tree of life, PNAS, 122(31) e2424307122.\n\nLetten et al. (2024) Microbial Dormancy Supports Multi-Species Coexistence Under Resource Fluctuations, Ecology Letters, 27(9) e14507.\n\n\n\n\nRichardson, Engelstaedter and Letten. (2025) A unifying principle for multispecies coexistence under resource fluctuations, PNAS, 122(24) e2424996122.\n\nLetten. (2025) Making sense of (sublinear) density dependence, Trends in Ecology & Evolution, 40(7) 622-625."
   }
 ]
