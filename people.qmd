@@ -1,4 +1,6 @@
-## Current Members
+## People
+
+### Current Members
 
 <img src="images/AL-headshot.png" width="30%">
 
@@ -6,7 +8,7 @@ Andrew Letten - Principal Investigator
 
 <img src="images/James-Orr-photo.jpg" width="30%">
 
-James Orr - DECRA Postdoctoral Fellow
+James Orr - ARC DECRA Postdoctoral Fellow
 
 <img src="images/Negin.jpg" width="30%">
 
@@ -28,13 +30,15 @@ James Richardson - PhD student
 
 Yu-Pei Tseng - PhD student
 
-<!-- <img src="images/AL-headshot.png" width="30%"> -->
+<img src="images/alicia-website-picture.jpeg" width="30%">
 
-Alicia Williams - PhD student
+Alicia Williams - PhD student (primary advisor Dr James Orr)
 
-Andrew Tuck - Lab manager (with Engelsatedter lab)
+<img src="images/andrew-profile-pic-at-beach-2.jpeg" width="30%">
+
+Andrew Tuck - Lab manager (Letten and Engelsatedter labs)
 
 Nick Bates - 3rd year research project
 
-## Alumni
+<!-- ### Alumni -->
 
