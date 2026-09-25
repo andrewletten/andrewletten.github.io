@@ -5,6 +5,7 @@ project:
 
 website:
   title: "Letten Lab"
+  favicon: images/favicon.svg
 
   navbar:
     left:
@@ -15,12 +16,21 @@ website:
       - join.qmd
       - contact.qmd
 
-  # page-footer:
-  #   center: |
-  #     © Letten Lab
+  page-footer:
+    left: |
+      © 2026 Letten Lab · University of Queensland
+    right:
+      - icon: envelope-fill
+        href: mailto:a.letten@uq.edu.au
+        aria-label: Email
+      - icon: mortarboard-fill
+        href: https://scholar.google.com.au/citations?user=Z9NWCuEAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/andrewletten
+        aria-label: GitHub
 
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme: [flatly, theme.scss]
     toc: false

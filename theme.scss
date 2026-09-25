@@ -1,0 +1,140 @@
+/*-- scss:defaults --*/
+
+// Palette
+$slate:       #435464;
+$slate-dark:  #33404b;
+$slate-light: #4e6173;
+$lime:        #bcde72;
+$lime-pale:   #dcefae;
+
+// Page
+$body-bg:        $slate;
+$body-color:     #ffffff;
+$font-size-base: 1.05rem;
+$primary:        $lime;
+$border-color:   rgba(255, 255, 255, 0.2);
+
+// Text
+$headings-color:   $lime;
+$link-color:       $lime-pale;
+$link-hover-color: #ffffff;
+$text-muted:       rgba(255, 255, 255, 0.7);
+
+// Navbar (Quarto)
+$navbar-bg: $slate-dark;
+$navbar-fg: #ffffff;
+$navbar-hl: $lime;
+
+// Footer (Quarto)
+$footer-bg: $slate-dark;
+$footer-fg: rgba(255, 255, 255, 0.8);
+
+// Search pop-up, form inputs and dropdowns
+$input-bg:           $slate-dark;
+$input-color:        #ffffff;
+$input-border-color: $border-color;
+$dropdown-bg:        $slate-dark;
+$dropdown-color:     #ffffff;
+$dropdown-link-color: #ffffff;
+
+// Code, callouts and tables
+$code-color:        $lime-pale;
+$code-block-bg:     $slate-dark;
+$table-color:       #ffffff;
+$table-border-color: $border-color;
+
+
+/*-- scss:rules --*/
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+h1 {
+  margin-top: 1rem;
+}
+
+img {
+  border-radius: 6px;
+}
+
+/* Links: lighter than the headings, with a subtle underline that brightens on hover */
+a {
+  text-decoration-color: rgba($lime, 0.45);
+  text-underline-offset: 0.2em;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+}
+
+a:hover,
+a:focus-visible {
+  text-decoration-color: $lime;
+  text-decoration-thickness: 2px;
+}
+
+a:focus-visible {
+  outline: 2px solid $lime;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Footer */
+
+.nav-footer {
+  border-top: none;
+  font-size: 0.9rem;
+}
+
+.nav-footer a {
+  text-decoration: none;
+}
+
+.nav-footer .nav-link {
+  font-size: 1.2rem;
+}
+
+/* People page */
+
+.people-grid {
+  row-gap: 1.5rem;
+}
+
+.person-card {
+  background-color: $slate-light;
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.person-card p {
+  margin-bottom: 0.25rem;
+}
+
+.person-photo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center 25%;
+  margin-bottom: 0.75rem;
+}
+
+.person-photo-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: $slate-dark;
+  border-radius: 6px;
+  font-size: 3rem;
+  font-weight: 700;
+  color: $lime;
+}
+
+.person-name {
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: $lime;
+}
+
+.person-role {
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
