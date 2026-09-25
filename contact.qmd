@@ -1,3 +1,9 @@
 # Contact
 
-a.letten@uq.edu.au
+[a.letten@uq.edu.au](mailto:a.letten@uq.edu.au)
+
+Goddard Building\
+The University of Queensland\
+St Lucia QLD 4072, Australia
+
+Interested in joining the lab? See [Join the Lab](join.qmd).

@@ -77,6 +77,16 @@ a:focus-visible {
   border-radius: 2px;
 }
 
+/* Home page tagline */
+
+.tagline {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: $lime;
+  margin: 1.5rem 0 0.5rem;
+}
+
 /* Footer */
 
 .nav-footer {
@@ -104,7 +114,7 @@ a:focus-visible {
 }
 
 .pub-list li::marker {
-  color: $lime;
+  color: $text-muted;
 }
 
 // Paper titles in the normal text colour, so only lab members stand out
