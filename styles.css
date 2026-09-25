@@ -54,5 +54,52 @@ h1, h2, h3, h4 {
 
 body {
   background-color: #435464;
-  color: #ffffff; 
+  color: #ffffff;
+}
+
+/* People page */
+
+.people-grid {
+  row-gap: 1.5rem;
+}
+
+.person-card {
+  background-color: #4e6173;
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.person-card p {
+  margin-bottom: 0.25rem;
+}
+
+.person-photo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center 25%;
+  margin-bottom: 0.75rem;
+}
+
+.person-photo-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #33404b;
+  border-radius: 6px;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #bcde72;
+}
+
+.person-name {
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: #bcde72;
+}
+
+.person-role {
+  font-size: 0.95rem;
+  opacity: 0.85;
 }
