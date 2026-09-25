@@ -40,12 +40,30 @@ img {
   color: #ffffff !important;
 }
 
-a {
-  color: #bcde72;
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: #bcde72 !important;
 }
 
-a:hover {
-  color: #bcde72;
+/* Links: lighter than the headings, with a subtle underline that brightens on hover */
+a {
+  color: #dcefae;
+  text-decoration-color: rgba(188, 222, 114, 0.45);
+  text-underline-offset: 0.2em;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+}
+
+a:hover,
+a:focus-visible {
+  color: #ffffff;
+  text-decoration-color: #bcde72;
+  text-decoration-thickness: 2px;
+}
+
+a:focus-visible {
+  outline: 2px solid #bcde72;
+  outline-offset: 2px;
+  border-radius: 2px;
 }
 
 h1, h2, h3, h4 {
