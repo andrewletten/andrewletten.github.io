@@ -1,44 +1,91 @@
-## People
+---
+title: People
+---
 
-### Current Members
+## Current Members
 
-<img src="images/AL-headshot.png" width="30%">
+::: {.grid .people-grid}
 
-Andrew Letten - Principal Investigator
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
+<img src="images/AL-headshot.png" alt="Andrew Letten" class="person-photo">
 
-<img src="images/James-Orr-photo.jpg" width="30%">
+[Andrew Letten]{.person-name}
 
-James Orr - ARC DECRA Postdoctoral Fellow
+[Principal Investigator]{.person-role}
+:::
 
-<img src="images/Negin.jpg" width="30%">
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
+<img src="images/James-Orr-photo.jpg" alt="James Orr" class="person-photo">
 
-Negin Bolourchi - PhD student
+[James Orr]{.person-name}
 
-<img src="images/Christopher-Brown.jpg" width="30%">
+[ARC DECRA Postdoctoral Fellow]{.person-role}
+:::
 
-Christopher Brown - PhD student
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
+<img src="images/andrew-profile-pic-at-beach-2.jpeg" alt="Andrew Tuck" class="person-photo">
 
-<img src="images/Vishwa.jpg" width="30%">
+[Andrew Tuck]{.person-name}
 
-Vishwa Patel - PhD student
+[Lab manager (Letten and Engelstaedter labs)]{.person-role}
+:::
 
-<img src="images/James.png" width="30%">
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
+<img src="images/Negin.jpg" alt="Negin Bolourchi" class="person-photo">
 
-James Richardson - PhD student
+[Negin Bolourchi]{.person-name}
 
-<img src="images/Yu-Pei.jpeg" width="30%">
+[PhD student]{.person-role}
+:::
 
-Yu-Pei Tseng - PhD student
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
+<img src="images/Christopher-Brown.jpg" alt="Christopher Brown" class="person-photo">
 
-<img src="images/alicia-website-picture.jpeg" width="30%">
+[Christopher Brown]{.person-name}
 
-Alicia Williams - PhD student (primary advisor Dr James Orr)
+[PhD student]{.person-role}
+:::
 
-<img src="images/andrew-profile-pic-at-beach-2.jpeg" width="30%">
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
+<img src="images/Vishwa.jpg" alt="Vishwa Patel" class="person-photo">
 
-Andrew Tuck - Lab manager (Letten and Engelsatedter labs)
+[Vishwa Patel]{.person-name}
 
-Nick Bates - 3rd year research project
+[PhD student]{.person-role}
+:::
 
-<!-- ### Alumni -->
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
+<img src="images/James.png" alt="James Richardson" class="person-photo">
 
+[James Richardson]{.person-name}
+
+[PhD student]{.person-role}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
+<img src="images/Yu-Pei.jpeg" alt="Yu-Pei Tseng" class="person-photo">
+
+[Yu-Pei Tseng]{.person-name}
+
+[PhD student]{.person-role}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
+<img src="images/alicia-website-picture.jpeg" alt="Alicia Williams" class="person-photo">
+
+[Alicia Williams]{.person-name}
+
+[PhD student (primary advisor Dr James Orr)]{.person-role}
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
+<div class="person-photo person-photo-placeholder" role="img" aria-label="Nick Bates">NB</div>
+
+[Nick Bates]{.person-name}
+
+[3rd year research project]{.person-role}
+:::
+
+:::
+
+<!-- ## Alumni -->
