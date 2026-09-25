@@ -7,7 +7,7 @@ title: People
 ::: {.grid .people-grid}
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
-<img src="images/AL-headshot.png" alt="Andrew Letten" class="person-photo">
+<img src="images/AL-headshot.jpg" alt="Andrew Letten" class="person-photo">
 
 [Andrew Letten]{.person-name}
 
@@ -55,7 +55,7 @@ title: People
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}
-<img src="images/James.png" alt="James Richardson" class="person-photo">
+<img src="images/James.jpg" alt="James Richardson" class="person-photo">
 
 [James Richardson]{.person-name}
 
