@@ -1,0 +1,2328 @@
+{
+  "orcid": [
+    {
+      "doi": "10.1093/evolut/qpaf123",
+      "type": "journal-article",
+      "title": "Optimal antimicrobial dosing combinations when drug-resistance mutation rates differ",
+      "journal": "Evolution",
+      "year": 2025
+    },
+    {
+      "doi": "10.1073/pnas.2424307122",
+      "type": "journal-article",
+      "title": "Evolution and evolvability of rifampicin resistance across the bacterial tree of life",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2025
+    },
+    {
+      "doi": "10.32942/x2f948",
+      "type": "preprint",
+      "title": "Density dependence revisited: strong evidence for superlinear population growth",
+      "journal": null,
+      "year": 2025
+    },
+    {
+      "doi": "10.1016/j.tree.2025.05.002",
+      "type": "journal-article",
+      "title": "Making sense of (sublinear) density dependence",
+      "journal": "Trends in Ecology & Evolution",
+      "year": 2025
+    },
+    {
+      "doi": "10.1073/pnas.2424996122",
+      "type": "journal-article",
+      "title": "A unifying principle for multispecies coexistence under resource fluctuations",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2025
+    },
+    {
+      "doi": "10.1111/1462-2920.70072",
+      "type": "journal-article",
+      "title": "Coexistence Theory for Microbial Ecology, and Vice Versa",
+      "journal": "Environmental Microbiology",
+      "year": 2025
+    },
+    {
+      "doi": "10.1101/2024.11.05.622190",
+      "type": "preprint",
+      "title": "Evolution and evolvability of rifampicin resistance across the bacterial tree of life",
+      "journal": null,
+      "year": 2024
+    },
+    {
+      "doi": "10.1101/2024.10.28.620751",
+      "type": "preprint",
+      "title": "A unifying principle for multispecies coexistence under resource fluctuations",
+      "journal": null,
+      "year": 2024
+    },
+    {
+      "doi": "10.32942/x2rs6n",
+      "type": "preprint",
+      "title": "Coexistence theory for microbial ecology, and vice versa",
+      "journal": null,
+      "year": 2024
+    },
+    {
+      "doi": "10.1111/ele.14507",
+      "type": "journal-article",
+      "title": "Microbial Dormancy Supports Multi‐Species Coexistence Under Resource Fluctuations",
+      "journal": "Ecology Letters",
+      "year": 2024
+    },
+    {
+      "doi": "10.32942/x2bk6v",
+      "type": "preprint",
+      "title": "We need to talk about (sublinear) density dependence",
+      "journal": null,
+      "year": 2024
+    },
+    {
+      "doi": "10.1101/2024.05.04.592498",
+      "type": "preprint",
+      "title": "Optimal antimicrobial dosing combinations when drug-resistance mutation rates differ",
+      "journal": null,
+      "year": 2024
+    },
+    {
+      "doi": "10.1093/genetics/iyad185",
+      "type": "journal-article",
+      "title": "Frequent, infinitesimal bottlenecks maximize the rate of microbial adaptation",
+      "journal": "GENETICS",
+      "year": 2023
+    },
+    {
+      "doi": "10.1111/ele.14286",
+      "type": "journal-article",
+      "title": "Eco‐evolutionary maintenance of diversity in fluctuating environments",
+      "journal": "Ecology Letters",
+      "year": 2023
+    },
+    {
+      "doi": "10.1101/2023.08.29.555413",
+      "type": "preprint",
+      "title": "Drug mode of action and resource constraints modulate antimicrobial resistance evolution",
+      "journal": null,
+      "year": 2023
+    },
+    {
+      "doi": "10.1101/2023.08.10.552848",
+      "type": "preprint",
+      "title": "Frequent, infinitesimal bottlenecks maximize the rate of microbial adaptation",
+      "journal": null,
+      "year": 2023
+    },
+    {
+      "doi": "10.1038/s41396-023-01369-1",
+      "type": "journal-article",
+      "title": "Pulsed, continuous or somewhere in between? Resource dynamics matter in the optimisation of microbial communities",
+      "journal": "The ISME Journal",
+      "year": 2023
+    },
+    {
+      "doi": "10.1111/oik.09573",
+      "type": "journal-article",
+      "title": "Different measures of niche and fitness differences tell different tales",
+      "journal": "Oikos",
+      "year": 2023
+    },
+    {
+      "doi": "10.1111/1365-2656.13813",
+      "type": "journal-article",
+      "title": "Extending the gleaner–opportunist trade‐off",
+      "journal": "Journal of Animal Ecology",
+      "year": 2022
+    },
+    {
+      "doi": "10.1101/2022.04.19.488725",
+      "type": "preprint",
+      "title": "Why resource dynamics matter in the optimization of microbial communities",
+      "journal": null,
+      "year": 2022
+    },
+    {
+      "doi": "10.1101/2022.01.11.475574",
+      "type": "preprint",
+      "title": "rescomp: An R package for defining, simulating and visualizing ODE models of consumer-resource interactions",
+      "journal": null,
+      "year": 2022
+    },
+    {
+      "doi": "10.1101/2021.09.28.462166",
+      "type": "preprint",
+      "title": "Different methods for niche and fitness differences computation offer contrasting explanations of species coexistence",
+      "journal": null,
+      "year": 2021
+    },
+    {
+      "doi": "10.1038/s41396-021-00929-7",
+      "type": "journal-article",
+      "title": "Human-associated microbiota suppress invading bacteria even under disruption by antibiotics",
+      "journal": "The ISME Journal",
+      "year": 2021
+    },
+    {
+      "doi": "10.1101/2021.08.30.458252",
+      "type": "preprint",
+      "title": "The effect of non-linear competitive interactions on quantifying niche and fitness differences",
+      "journal": null,
+      "year": 2021
+    },
+    {
+      "doi": "10.1038/s41559-021-01461-9",
+      "type": "journal-article",
+      "title": "Coexistence holes fill a gap in community assembly theory",
+      "journal": "Nature Ecology & Evolution",
+      "year": 2021
+    },
+    {
+      "doi": "10.1111/ele.13707",
+      "type": "journal-article",
+      "title": "Rapid evolution promotes fluctuation‐dependent species coexistence",
+      "journal": "Ecology Letters",
+      "year": 2021
+    },
+    {
+      "doi": "10.1073/pnas.2022754118",
+      "type": "journal-article",
+      "title": "Gleaning, fast and slow: In defense of a canonical ecological trade-off",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2021
+    },
+    {
+      "doi": "10.1038/s41559-020-01385-w",
+      "type": "journal-article",
+      "title": "Using ecological coexistence theory to understand antibiotic resistance and microbial competition",
+      "journal": "Nature Ecology & Evolution",
+      "year": 2021
+    },
+    {
+      "doi": "10.1101/2020.09.02.279307",
+      "type": "preprint",
+      "title": "Human-associated microbiota suppress invading bacteria even under disruption by antibiotics",
+      "journal": null,
+      "year": 2020
+    },
+    {
+      "doi": "10.1101/2020.08.05.239053",
+      "type": "preprint",
+      "title": "Rapid evolution promotes fluctuation-dependent species coexistence",
+      "journal": null,
+      "year": 2020
+    },
+    {
+      "doi": "10.1038/s41586-020-2310-0",
+      "type": "journal-article",
+      "title": "Publisher Correction: Intensive farming drives long-term shifts in avian community composition",
+      "journal": "Nature",
+      "year": 2020
+    },
+    {
+      "doi": "10.1101/2020.05.10.086744",
+      "type": "preprint",
+      "title": "Antibiotics in microbial communities: an ecological frame of resistance",
+      "journal": null,
+      "year": 2020
+    },
+    {
+      "doi": "10.1038/s41586-020-2090-6",
+      "type": "journal-article",
+      "title": "Intensive farming drives long-term shifts in avian community composition",
+      "journal": "Nature",
+      "year": 2020
+    },
+    {
+      "doi": "10.1073/pnas.1803122116",
+      "type": "journal-article",
+      "title": "Applying modern coexistence theory to priority effects",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2019
+    },
+    {
+      "doi": "10.1038/s41559-019-0858-6",
+      "type": "journal-article",
+      "title": "Author Correction: A global test of ecoregions",
+      "journal": "Nature Ecology & Evolution",
+      "year": 2019
+    },
+    {
+      "doi": "10.1111/ele.13211",
+      "type": "journal-article",
+      "title": "The mechanistic basis for higher-order interactions and non-additivity in competitive communities.",
+      "journal": "Ecology letters",
+      "year": 2019
+    },
+    {
+      "doi": "10.1038/s41559-018-0709-x",
+      "type": "journal-article",
+      "title": "A global test of ecoregions",
+      "journal": "Nature Ecology & Evolution",
+      "year": 2018
+    },
+    {
+      "doi": "10.1038/s41559-018-0679-z",
+      "type": "journal-article",
+      "title": "Coexistence theory and the frequency-dependence of priority effects",
+      "journal": "Nature Ecology & Evolution",
+      "year": 2018
+    },
+    {
+      "doi": "10.1073/pnas.1801846115",
+      "type": "journal-article",
+      "title": "Species coexistence through simultaneous fluctuation-dependent mechanisms",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "year": 2018
+    },
+    {
+      "doi": "10.1111/mec.14535",
+      "type": "journal-article",
+      "title": "Genomic diversity of a nectar yeast clusters into metabolically, but not geographically, distinct lineages.",
+      "journal": "Molecular ecology",
+      "year": 2018
+    },
+    {
+      "doi": "10.1101/243303",
+      "type": "preprint",
+      "title": "Coexistence theory and the frequency-dependence of priority effects",
+      "journal": null,
+      "year": 2018
+    },
+    {
+      "doi": "10.1111/nph.14735",
+      "type": "journal-article",
+      "title": "Can dispersal investment explain why tall plant species achieve longer dispersal distances than short plant species?",
+      "journal": "The New phytologist",
+      "year": 2017
+    },
+    {
+      "doi": "10.1002/eap.1449",
+      "type": "journal-article",
+      "title": "Detecting state changes for ecosystem conservation with long-term monitoring of species composition.",
+      "journal": "Ecological applications : a publication of the Ecological Society of America",
+      "year": 2017
+    },
+    {
+      "doi": "10.1002/ecm.1242",
+      "type": "journal-article",
+      "title": "Linking modern coexistence theory and contemporary niche theory",
+      "journal": "Ecological Monographs",
+      "year": 2017
+    },
+    {
+      "doi": "10.1007/s00442-016-3700-8",
+      "type": "journal-article",
+      "title": "Using a model based fourth-corner analysis to explain vegetation change following an extraordinary fire disturbance.",
+      "journal": "Oecologia",
+      "year": 2016
+    },
+    {
+      "doi": "10.1111/1365-2745.12428",
+      "type": "journal-article",
+      "title": "Fine-scale hydrological niche differentiation through the lens of multi-species co-occurrence models",
+      "journal": "J Ecol",
+      "year": 2015
+    },
+    {
+      "doi": "10.1111/jvs.12239",
+      "type": "journal-article",
+      "title": "Post-grazing and post-fire vegetation dynamics: long-term changes in mountain bogs reveal community resilience",
+      "journal": "Journal of Vegetation Science",
+      "year": 2015
+    },
+    {
+      "doi": null,
+      "type": "journal-article",
+      "title": "Trees, branches and (square) roots: why evolutionary relatedness is not linearly related to functional distance",
+      "journal": "Methods in Ecology and Evolution",
+      "year": 2015
+    },
+    {
+      "doi": "10.1098/rspb.2014.2102",
+      "type": "journal-article",
+      "title": "Phylogenetic and functional dissimilarity does not increase during temporal heathland succession.",
+      "journal": null,
+      "year": 2014
+    },
+    {
+      "doi": "10.1007/s10530-014-0789-8",
+      "type": "journal-article",
+      "title": "In the beginning: phenotypic change in three invasive species through their first two centuries since introduction",
+      "journal": "Biol Invasions",
+      "year": 2014
+    },
+    {
+      "doi": "10.1111/jbi.12196",
+      "type": "journal-article",
+      "title": "The mid-domain effect: it's not just about space",
+      "journal": "J. Biogeogr.",
+      "year": 2013
+    },
+    {
+      "doi": "10.1111/j.1600-0587.2013.00346.x",
+      "type": "journal-article",
+      "title": "The importance of temporal climate variability for spatial patterns in plant diversity",
+      "journal": "Ecography",
+      "year": 2013
+    },
+    {
+      "doi": "10.1111/j.1442-9993.2008.01925.x",
+      "type": "journal-article",
+      "title": "Rodent pollination in the Cape legume Liparia parva",
+      "journal": "Austral Ecology",
+      "year": 2009
+    }
+  ],
+  "recent_preprints": ["10.64898/2026.08.19.745668", "10.64898/2026.06.09.731231", "10.32942/x2f948", "10.64898/2025.12.03.692229", "10.64898/2026.07.16.738797"],
+  "title_dois": {
+    "treesbranchesandsquarerootswhyevolutionaryrelatednessisnotlinearlyrelatedtofunctionaldistance": "10.1111/2041-210x.12237"
+  },
+  "crossref": {
+    "10.1002/eap.1449": {
+      "doi": "10.1002/eap.1449",
+      "type": "journal-article",
+      "title": "Detecting state changes for ecosystem conservation with long‐term monitoring of species composition",
+      "journal": "Ecological Applications",
+      "volume": "27",
+      "issue": "2",
+      "pages": "458-468",
+      "year": 2017,
+      "month": 2,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "T. J.",
+          "family": "Mason",
+          "orcid": ""
+        },
+        {
+          "given": "D. A.",
+          "family": "Keith",
+          "orcid": ""
+        },
+        {
+          "given": "A. D.",
+          "family": "Letten",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1002/ecm.1242": {
+      "doi": "10.1002/ecm.1242",
+      "type": "journal-article",
+      "title": "Linking modern coexistence theory and contemporary niche theory",
+      "journal": "Ecological Monographs",
+      "volume": "87",
+      "issue": "2",
+      "pages": "161-177",
+      "year": 2017,
+      "month": 2,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "Po‐Ju",
+          "family": "Ke",
+          "orcid": ""
+        },
+        {
+          "given": "Tadashi",
+          "family": "Fukami",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1007/s00442-016-3700-8": {
+      "doi": "10.1007/s00442-016-3700-8",
+      "type": "journal-article",
+      "title": "Using a model based fourth-corner analysis to explain vegetation change following an extraordinary fire disturbance",
+      "journal": "Oecologia",
+      "volume": "182",
+      "issue": "3",
+      "pages": "855-863",
+      "year": 2016,
+      "month": 8,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "S. E.",
+          "family": "Venn",
+          "orcid": ""
+        },
+        {
+          "given": "C. M.",
+          "family": "Pickering",
+          "orcid": ""
+        },
+        {
+          "given": "S. A.",
+          "family": "Butler",
+          "orcid": ""
+        },
+        {
+          "given": "A. D.",
+          "family": "Letten",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1007/s10530-014-0789-8": {
+      "doi": "10.1007/s10530-014-0789-8",
+      "type": "journal-article",
+      "title": "In the beginning: phenotypic change in three invasive species through their first two centuries since introduction",
+      "journal": "Biological Invasions",
+      "volume": "17",
+      "issue": "4",
+      "pages": "1215-1225",
+      "year": 2014,
+      "month": 9,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Habacuc",
+          "family": "Flores-Moreno",
+          "orcid": ""
+        },
+        {
+          "given": "Edgar S.",
+          "family": "García-Treviño",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "Angela T.",
+          "family": "Moles",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1016/j.tree.2025.05.002": {
+      "doi": "10.1016/j.tree.2025.05.002",
+      "type": "journal-article",
+      "title": "Making sense of (sublinear) density dependence",
+      "journal": "Trends in Ecology &amp; Evolution",
+      "volume": "40",
+      "issue": "7",
+      "pages": "622-625",
+      "year": 2025,
+      "month": 7,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1038/s41396-021-00929-7": {
+      "doi": "10.1038/s41396-021-00929-7",
+      "type": "journal-article",
+      "title": "Human-associated microbiota suppress invading bacteria even under disruption by antibiotics",
+      "journal": "The ISME Journal",
+      "volume": "15",
+      "issue": "9",
+      "pages": "2809-2812",
+      "year": 2021,
+      "month": 3,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Michael",
+          "family": "Baumgartner",
+          "orcid": ""
+        },
+        {
+          "given": "Katia R",
+          "family": "Pfrunder-Cardozo",
+          "orcid": ""
+        },
+        {
+          "given": "Jonathan M",
+          "family": "Levine",
+          "orcid": ""
+        },
+        {
+          "given": "Alex R",
+          "family": "Hall",
+          "orcid": "0000-0002-3654-1373"
+        }
+      ]
+    },
+    "10.1038/s41396-023-01369-1": {
+      "doi": "10.1038/s41396-023-01369-1",
+      "type": "journal-article",
+      "title": "Pulsed, continuous or somewhere in between? Resource dynamics matter in the optimisation of microbial communities",
+      "journal": "The ISME Journal",
+      "volume": "17",
+      "issue": "4",
+      "pages": "641-644",
+      "year": 2023,
+      "month": 1,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "William B",
+          "family": "Ludington",
+          "orcid": "0000-0001-9637-4493"
+        }
+      ]
+    },
+    "10.1038/s41559-018-0679-z": {
+      "doi": "10.1038/s41559-018-0679-z",
+      "type": "journal-article",
+      "title": "Coexistence theory and the frequency-dependence of priority effects",
+      "journal": "Nature Ecology &amp; Evolution",
+      "volume": "2",
+      "issue": "11",
+      "pages": "1691-1695",
+      "year": 2018,
+      "month": 10,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Po-Ju",
+          "family": "Ke",
+          "orcid": "0000-0002-8371-7984"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1038/s41559-018-0709-x": {
+      "doi": "10.1038/s41559-018-0709-x",
+      "type": "journal-article",
+      "title": "A global test of ecoregions",
+      "journal": "Nature Ecology &amp; Evolution",
+      "volume": "2",
+      "issue": "12",
+      "pages": "1889-1896",
+      "year": 2018,
+      "month": 11,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Jeffrey R.",
+          "family": "Smith",
+          "orcid": "0000-0001-5768-216X"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Po-Ju",
+          "family": "Ke",
+          "orcid": "0000-0002-8371-7984"
+        },
+        {
+          "given": "Christopher B.",
+          "family": "Anderson",
+          "orcid": ""
+        },
+        {
+          "given": "J. Nicholas",
+          "family": "Hendershot",
+          "orcid": ""
+        },
+        {
+          "given": "Manpreet K.",
+          "family": "Dhami",
+          "orcid": ""
+        },
+        {
+          "given": "Glade A.",
+          "family": "Dlott",
+          "orcid": ""
+        },
+        {
+          "given": "Tess N.",
+          "family": "Grainger",
+          "orcid": ""
+        },
+        {
+          "given": "Meghan E.",
+          "family": "Howard",
+          "orcid": ""
+        },
+        {
+          "given": "Beth M. L.",
+          "family": "Morrison",
+          "orcid": ""
+        },
+        {
+          "given": "Devin",
+          "family": "Routh",
+          "orcid": ""
+        },
+        {
+          "given": "Priscilla A.",
+          "family": "San Juan",
+          "orcid": ""
+        },
+        {
+          "given": "Harold A.",
+          "family": "Mooney",
+          "orcid": ""
+        },
+        {
+          "given": "Erin A.",
+          "family": "Mordecai",
+          "orcid": ""
+        },
+        {
+          "given": "Thomas W.",
+          "family": "Crowther",
+          "orcid": ""
+        },
+        {
+          "given": "Gretchen C.",
+          "family": "Daily",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1038/s41559-019-0858-6": {
+      "doi": "10.1038/s41559-019-0858-6",
+      "type": "journal-article",
+      "title": "Author Correction: A global test of ecoregions",
+      "journal": "Nature Ecology &amp; Evolution",
+      "volume": "3",
+      "issue": "4",
+      "pages": "708-708",
+      "year": 2019,
+      "month": 3,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Jeffrey R.",
+          "family": "Smith",
+          "orcid": "0000-0001-5768-216X"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Po-Ju",
+          "family": "Ke",
+          "orcid": "0000-0002-8371-7984"
+        },
+        {
+          "given": "Christopher B.",
+          "family": "Anderson",
+          "orcid": ""
+        },
+        {
+          "given": "J. Nicholas",
+          "family": "Hendershot",
+          "orcid": ""
+        },
+        {
+          "given": "Manpreet K.",
+          "family": "Dhami",
+          "orcid": ""
+        },
+        {
+          "given": "Glade A.",
+          "family": "Dlott",
+          "orcid": ""
+        },
+        {
+          "given": "Tess N.",
+          "family": "Grainger",
+          "orcid": ""
+        },
+        {
+          "given": "Meghan E.",
+          "family": "Howard",
+          "orcid": ""
+        },
+        {
+          "given": "Beth M. L.",
+          "family": "Morrison",
+          "orcid": ""
+        },
+        {
+          "given": "Devin",
+          "family": "Routh",
+          "orcid": ""
+        },
+        {
+          "given": "Priscilla A. San",
+          "family": "Juan",
+          "orcid": ""
+        },
+        {
+          "given": "Harold A.",
+          "family": "Mooney",
+          "orcid": ""
+        },
+        {
+          "given": "Erin A.",
+          "family": "Mordecai",
+          "orcid": ""
+        },
+        {
+          "given": "Thomas W.",
+          "family": "Crowther",
+          "orcid": ""
+        },
+        {
+          "given": "Gretchen C.",
+          "family": "Daily",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1038/s41559-020-01385-w": {
+      "doi": "10.1038/s41559-020-01385-w",
+      "type": "journal-article",
+      "title": "Using ecological coexistence theory to understand antibiotic resistance and microbial competition",
+      "journal": "Nature Ecology &amp; Evolution",
+      "volume": "5",
+      "issue": "4",
+      "pages": "431-441",
+      "year": 2021,
+      "month": 2,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Alex R.",
+          "family": "Hall",
+          "orcid": ""
+        },
+        {
+          "given": "Jonathan M.",
+          "family": "Levine",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1038/s41559-021-01461-9": {
+      "doi": "10.1038/s41559-021-01461-9",
+      "type": "journal-article",
+      "title": "Coexistence holes fill a gap in community assembly theory",
+      "journal": "Nature Ecology &amp; Evolution",
+      "volume": "5",
+      "issue": "8",
+      "pages": "1062-1063",
+      "year": 2021,
+      "month": 5,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1038/s41586-020-2090-6": {
+      "doi": "10.1038/s41586-020-2090-6",
+      "type": "journal-article",
+      "title": "Intensive farming drives long-term shifts in avian community composition",
+      "journal": "Nature",
+      "volume": "579",
+      "issue": "7799",
+      "pages": "393-396",
+      "year": 2020,
+      "month": 3,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "J. Nicholas",
+          "family": "Hendershot",
+          "orcid": "0000-0001-9570-8447"
+        },
+        {
+          "given": "Jeffrey R.",
+          "family": "Smith",
+          "orcid": "0000-0001-5768-216X"
+        },
+        {
+          "given": "Christopher B.",
+          "family": "Anderson",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Luke O.",
+          "family": "Frishkoff",
+          "orcid": ""
+        },
+        {
+          "given": "Jim R.",
+          "family": "Zook",
+          "orcid": ""
+        },
+        {
+          "given": "Tadashi",
+          "family": "Fukami",
+          "orcid": ""
+        },
+        {
+          "given": "Gretchen C.",
+          "family": "Daily",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1038/s41586-020-2310-0": {
+      "doi": "10.1038/s41586-020-2310-0",
+      "type": "journal-article",
+      "title": "Publisher Correction: Intensive farming drives long-term shifts in avian community composition",
+      "journal": "Nature",
+      "volume": "581",
+      "issue": "7808",
+      "pages": "E6-E6",
+      "year": 2020,
+      "month": 5,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "J. Nicholas",
+          "family": "Hendershot",
+          "orcid": "0000-0001-9570-8447"
+        },
+        {
+          "given": "Jeffrey R.",
+          "family": "Smith",
+          "orcid": "0000-0001-5768-216X"
+        },
+        {
+          "given": "Christopher B.",
+          "family": "Anderson",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Luke O.",
+          "family": "Frishkoff",
+          "orcid": ""
+        },
+        {
+          "given": "Jim R.",
+          "family": "Zook",
+          "orcid": ""
+        },
+        {
+          "given": "Tadashi",
+          "family": "Fukami",
+          "orcid": ""
+        },
+        {
+          "given": "Gretchen C.",
+          "family": "Daily",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1073/pnas.1801846115": {
+      "doi": "10.1073/pnas.1801846115",
+      "type": "journal-article",
+      "title": "Species coexistence through simultaneous fluctuation-dependent mechanisms",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "115",
+      "issue": "26",
+      "pages": "6745-6750",
+      "year": 2018,
+      "month": 6,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Manpreet K.",
+          "family": "Dhami",
+          "orcid": "0000-0002-8956-0674"
+        },
+        {
+          "given": "Po-Ju",
+          "family": "Ke",
+          "orcid": ""
+        },
+        {
+          "given": "Tadashi",
+          "family": "Fukami",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1073/pnas.1803122116": {
+      "doi": "10.1073/pnas.1803122116",
+      "type": "journal-article",
+      "title": "Applying modern coexistence theory to priority effects",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "116",
+      "issue": "13",
+      "pages": "6205-6210",
+      "year": 2019,
+      "month": 3,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Tess Nahanni",
+          "family": "Grainger",
+          "orcid": "0000-0002-6094-0526"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Benjamin",
+          "family": "Gilbert",
+          "orcid": "0000-0002-4947-6822"
+        },
+        {
+          "given": "Tadashi",
+          "family": "Fukami",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1073/pnas.2022754118": {
+      "doi": "10.1073/pnas.2022754118",
+      "type": "journal-article",
+      "title": "Gleaning, fast and slow: In defense of a canonical ecological trade-off",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "118",
+      "issue": "5",
+      "pages": "e2022754118",
+      "year": 2021,
+      "month": 1,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Masato",
+          "family": "Yamamichi",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1073/pnas.2424307122": {
+      "doi": "10.1073/pnas.2424307122",
+      "type": "journal-article",
+      "title": "Evolution and evolvability of rifampicin resistance across the bacterial tree of life",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "122",
+      "issue": "31",
+      "pages": "e2424307122",
+      "year": 2025,
+      "month": 7,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Negin",
+          "family": "Bolourchi",
+          "orcid": ""
+        },
+        {
+          "given": "Christopher R. P.",
+          "family": "Brown",
+          "orcid": "0000-0002-0393-3477"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": "0000-0003-3340-918X"
+        }
+      ]
+    },
+    "10.1073/pnas.2424996122": {
+      "doi": "10.1073/pnas.2424996122",
+      "type": "journal-article",
+      "title": "A unifying principle for multispecies coexistence under resource fluctuations",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "122",
+      "issue": "24",
+      "pages": "e2424996122",
+      "year": 2025,
+      "month": 6,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "James A.",
+          "family": "Richardson",
+          "orcid": "0009-0008-1252-3681"
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1093/evolut/qpaf123": {
+      "doi": "10.1093/evolut/qpaf123",
+      "type": "journal-article",
+      "title": "Optimal antimicrobial dosing combinations when drug-resistance mutation rates differ",
+      "journal": "Evolution",
+      "volume": "79",
+      "issue": "9",
+      "pages": "1900-1910",
+      "year": 2025,
+      "month": 6,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Oscar",
+          "family": "Delaney",
+          "orcid": "0000-0002-8792-0744"
+        },
+        {
+          "given": "Andrew D",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": "0000-0003-3340-918X"
+        }
+      ]
+    },
+    "10.1093/genetics/iyad185": {
+      "doi": "10.1093/genetics/iyad185",
+      "type": "journal-article",
+      "title": "Frequent, infinitesimal bottlenecks maximize the rate of microbial adaptation",
+      "journal": "GENETICS",
+      "volume": "225",
+      "issue": "4",
+      "pages": "iyad185",
+      "year": 2023,
+      "month": 10,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Oscar",
+          "family": "Delaney",
+          "orcid": "0000-0002-8792-0744"
+        },
+        {
+          "given": "Andrew D",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": "0000-0003-3340-918X"
+        }
+      ]
+    },
+    "10.1098/rspb.2014.2102": {
+      "doi": "10.1098/rspb.2014.2102",
+      "type": "journal-article",
+      "title": "Phylogenetic and functional dissimilarity does not increase during temporal heathland succession",
+      "journal": "Proceedings of the Royal Society B: Biological Sciences",
+      "volume": "281",
+      "issue": "1797",
+      "pages": "20142102",
+      "year": 2014,
+      "month": 12,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "David A.",
+          "family": "Keith",
+          "orcid": ""
+        },
+        {
+          "given": "Mark G.",
+          "family": "Tozer",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1101/2020.05.10.086744": {
+      "doi": "10.1101/2020.05.10.086744",
+      "type": "posted-content",
+      "title": "Antibiotics in microbial communities: an ecological frame of resistance",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2020,
+      "month": 5,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Alex",
+          "family": "Hall",
+          "orcid": ""
+        },
+        {
+          "given": "Jonathan",
+          "family": "Levine",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1101/2020.08.05.239053": {
+      "doi": "10.1101/2020.08.05.239053",
+      "type": "posted-content",
+      "title": "Rapid evolution promotes fluctuation-dependent species coexistence",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2020,
+      "month": 8,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Masato",
+          "family": "Yamamichi",
+          "orcid": "0000-0003-2136-3399"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1101/2020.09.02.279307": {
+      "doi": "10.1101/2020.09.02.279307",
+      "type": "posted-content",
+      "title": "Human-associated microbiota suppress invading bacteria even under disruption by antibiotics",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2020,
+      "month": 9,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Michael",
+          "family": "Baumgartner",
+          "orcid": "0000-0002-4158-460X"
+        },
+        {
+          "given": "Katia R.",
+          "family": "Pfrunder-Cardozo",
+          "orcid": ""
+        },
+        {
+          "given": "Jonathan",
+          "family": "Levine",
+          "orcid": ""
+        },
+        {
+          "given": "Alex R.",
+          "family": "Hall",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1101/2021.08.30.458252": {
+      "doi": "10.1101/2021.08.30.458252",
+      "type": "posted-content",
+      "title": "The effect of non-linear competitive interactions on quantifying niche and fitness differences",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2021,
+      "month": 9,
+      "published_as": "10.1007/s12080-023-00560-6",
+      "authors": [
+        {
+          "given": "Jurg",
+          "family": "Spaak",
+          "orcid": "0000-0001-5157-9188"
+        },
+        {
+          "given": "Remi",
+          "family": "Millet",
+          "orcid": ""
+        },
+        {
+          "given": "Po-Ju",
+          "family": "Ke",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Frederik",
+          "family": "De Laender",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1101/2021.09.28.462166": {
+      "doi": "10.1101/2021.09.28.462166",
+      "type": "posted-content",
+      "title": "Different methods for niche and fitness differences computation offer contrasting explanations of species coexistence",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2021,
+      "month": 9,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Jurg W.",
+          "family": "Spaak",
+          "orcid": "0000-0001-5157-9188"
+        },
+        {
+          "given": "Po-Ju",
+          "family": "Ke",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Frederik",
+          "family": "De Laender",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1101/2022.01.11.475574": {
+      "doi": "10.1101/2022.01.11.475574",
+      "type": "posted-content",
+      "title": "<i>rescomp<\/i>\n                  : An R package for defining, simulating and visualizing ODE models of consumer-resource interactions",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2022,
+      "month": 1,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1101/2022.04.19.488725": {
+      "doi": "10.1101/2022.04.19.488725",
+      "type": "posted-content",
+      "title": "Why resource dynamics matter in the optimization of microbial communities",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2022,
+      "month": 4,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "William B.",
+          "family": "Ludington",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1101/2023.08.10.552848": {
+      "doi": "10.1101/2023.08.10.552848",
+      "type": "posted-content",
+      "title": "Frequent, infinitesimal bottlenecks maximize the rate of microbial adaptation",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2023,
+      "month": 8,
+      "published_as": "10.1093/genetics/iyad185",
+      "authors": [
+        {
+          "given": "Oscar",
+          "family": "Delaney",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1101/2023.08.29.555413": {
+      "doi": "10.1101/2023.08.29.555413",
+      "type": "posted-content",
+      "title": "Drug mode of action and resource constraints modulate antimicrobial resistance evolution",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2023,
+      "month": 8,
+      "published_as": "10.1016/j.jtbi.2025.112316",
+      "authors": [
+        {
+          "given": "Oscar",
+          "family": "Delaney",
+          "orcid": "0000-0002-8792-0744"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": "0000-0003-3340-918X"
+        }
+      ]
+    },
+    "10.1101/2024.05.04.592498": {
+      "doi": "10.1101/2024.05.04.592498",
+      "type": "posted-content",
+      "title": "Optimal antimicrobial dosing combinations when drug-resistance mutation rates differ",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2024,
+      "month": 5,
+      "published_as": "10.1093/evolut/qpaf123",
+      "authors": [
+        {
+          "given": "Oscar",
+          "family": "Delaney",
+          "orcid": "0000-0002-8792-0744"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": "0000-0003-3340-918X"
+        }
+      ]
+    },
+    "10.1101/2024.10.28.620751": {
+      "doi": "10.1101/2024.10.28.620751",
+      "type": "posted-content",
+      "title": "A unifying principle for multispecies coexistence under resource fluctuations",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2024,
+      "month": 11,
+      "published_as": "10.1073/pnas.2424996122",
+      "authors": [
+        {
+          "given": "James A.",
+          "family": "Richardson",
+          "orcid": ""
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": "0000-0003-3340-918X"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1101/2024.11.05.622190": {
+      "doi": "10.1101/2024.11.05.622190",
+      "type": "posted-content",
+      "title": "Evolution and evolvability of rifampicin resistance across the bacterial tree of life",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2024,
+      "month": 11,
+      "published_as": "10.1073/pnas.2424307122",
+      "authors": [
+        {
+          "given": "Negin",
+          "family": "Bolourchi",
+          "orcid": ""
+        },
+        {
+          "given": "Christopher R. P.",
+          "family": "Brown",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": "0000-0003-3340-918X"
+        }
+      ]
+    },
+    "10.1101/243303": {
+      "doi": "10.1101/243303",
+      "type": "posted-content",
+      "title": "Coexistence theory and the frequency-dependence of priority effects",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2018,
+      "month": 1,
+      "published_as": "10.1038/s41559-018-0679-z",
+      "authors": [
+        {
+          "given": "Po-Ju",
+          "family": "Ke",
+          "orcid": "0000-0002-8371-7984"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1111/1365-2656.13813": {
+      "doi": "10.1111/1365-2656.13813",
+      "type": "journal-article",
+      "title": "Extending the gleaner–opportunist trade‐off",
+      "journal": "Journal of Animal Ecology",
+      "volume": "91",
+      "issue": "11",
+      "pages": "2163-2170",
+      "year": 2022,
+      "month": 10,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Masato",
+          "family": "Yamamichi",
+          "orcid": "0000-0003-2136-3399"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1111/1365-2745.12428": {
+      "doi": "10.1111/1365-2745.12428",
+      "type": "journal-article",
+      "title": "Fine‐scale hydrological niche differentiation through the lens of multi‐species co‐occurrence models",
+      "journal": "Journal of Ecology",
+      "volume": "103",
+      "issue": "5",
+      "pages": "1264-1275",
+      "year": 2015,
+      "month": 6,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "David A.",
+          "family": "Keith",
+          "orcid": ""
+        },
+        {
+          "given": "Mark G.",
+          "family": "Tozer",
+          "orcid": ""
+        },
+        {
+          "given": "Francis K.C.",
+          "family": "Hui",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1111/1462-2920.70072": {
+      "doi": "10.1111/1462-2920.70072",
+      "type": "journal-article",
+      "title": "Coexistence Theory for Microbial Ecology, and Vice Versa",
+      "journal": "Environmental Microbiology",
+      "volume": "27",
+      "issue": "3",
+      "pages": "e70072",
+      "year": 2025,
+      "month": 3,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "James A.",
+          "family": "Orr",
+          "orcid": ""
+        },
+        {
+          "given": "David W.",
+          "family": "Armitage",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1111/2041-210x.12237": {
+      "doi": "10.1111/2041-210x.12237",
+      "type": "journal-article",
+      "title": "Trees, branches and (square) roots: why evolutionary relatedness is not linearly related to functional distance",
+      "journal": "Methods in Ecology and Evolution",
+      "volume": "6",
+      "issue": "4",
+      "pages": "439-444",
+      "year": 2014,
+      "month": 9,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "William K.",
+          "family": "Cornwell",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1111/ele.13211": {
+      "doi": "10.1111/ele.13211",
+      "type": "journal-article",
+      "title": "The mechanistic basis for higher-order interactions and non-additivity in competitive communities",
+      "journal": "Ecology Letters",
+      "volume": "22",
+      "issue": "3",
+      "pages": "423-436",
+      "year": 2019,
+      "month": 1,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "Daniel B.",
+          "family": "Stouffer",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1111/ele.13707": {
+      "doi": "10.1111/ele.13707",
+      "type": "journal-article",
+      "title": "Rapid evolution promotes fluctuation‐dependent species coexistence",
+      "journal": "Ecology Letters",
+      "volume": "24",
+      "issue": "4",
+      "pages": "812-818",
+      "year": 2021,
+      "month": 2,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Masato",
+          "family": "Yamamichi",
+          "orcid": "0000-0003-2136-3399"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.1111/ele.14286": {
+      "doi": "10.1111/ele.14286",
+      "type": "journal-article",
+      "title": "Eco‐evolutionary maintenance of diversity in fluctuating environments",
+      "journal": "Ecology Letters",
+      "volume": "26",
+      "issue": "S1",
+      "pages": null,
+      "year": 2023,
+      "month": 9,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Masato",
+          "family": "Yamamichi",
+          "orcid": "0000-0003-2136-3399"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Sebastian J.",
+          "family": "Schreiber",
+          "orcid": "0000-0002-5481-4822"
+        }
+      ]
+    },
+    "10.1111/ele.14507": {
+      "doi": "10.1111/ele.14507",
+      "type": "journal-article",
+      "title": "Microbial Dormancy Supports Multi‐Species Coexistence Under Resource Fluctuations",
+      "journal": "Ecology Letters",
+      "volume": "27",
+      "issue": "9",
+      "pages": "e14507",
+      "year": 2024,
+      "month": 9,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Masato",
+          "family": "Yamamichi",
+          "orcid": "0000-0003-2136-3399"
+        },
+        {
+          "given": "James A.",
+          "family": "Richardson",
+          "orcid": ""
+        },
+        {
+          "given": "Po‐Ju",
+          "family": "Ke",
+          "orcid": "0000-0002-8371-7984"
+        }
+      ]
+    },
+    "10.1111/j.1442-9993.2008.01925.x": {
+      "doi": "10.1111/j.1442-9993.2008.01925.x",
+      "type": "journal-article",
+      "title": "Rodent pollination in the Cape legume <i>Liparia parva<\/i>",
+      "journal": "Austral Ecology",
+      "volume": "34",
+      "issue": "2",
+      "pages": "233-236",
+      "year": 2009,
+      "month": 3,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "ANDREW D.",
+          "family": "LETTEN",
+          "orcid": ""
+        },
+        {
+          "given": "JEREMY J.",
+          "family": "MIDGLEY",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1111/j.1600-0587.2013.00346.x": {
+      "doi": "10.1111/j.1600-0587.2013.00346.x",
+      "type": "journal-article",
+      "title": "The importance of temporal climate variability for spatial patterns in plant diversity",
+      "journal": "Ecography",
+      "volume": "36",
+      "issue": "12",
+      "pages": "1341-1349",
+      "year": 2013,
+      "month": 6,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "Michael B.",
+          "family": "Ashcroft",
+          "orcid": ""
+        },
+        {
+          "given": "David A.",
+          "family": "Keith",
+          "orcid": ""
+        },
+        {
+          "given": "John R.",
+          "family": "Gollan",
+          "orcid": ""
+        },
+        {
+          "given": "Daniel",
+          "family": "Ramp",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1111/jbi.12196": {
+      "doi": "10.1111/jbi.12196",
+      "type": "journal-article",
+      "title": "The mid‐domain effect: it's not just about space",
+      "journal": "Journal of Biogeography",
+      "volume": "40",
+      "issue": "11",
+      "pages": "2017-2019",
+      "year": 2013,
+      "month": 8,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "S.",
+          "family": "Kathleen Lyons",
+          "orcid": ""
+        },
+        {
+          "given": "Angela T.",
+          "family": "Moles",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1111/jvs.12239": {
+      "doi": "10.1111/jvs.12239",
+      "type": "journal-article",
+      "title": "Post‐grazing and post‐fire vegetation dynamics: long‐term changes in mountain bogs reveal community resilience",
+      "journal": "Journal of Vegetation Science",
+      "volume": "26",
+      "issue": "2",
+      "pages": "278-290",
+      "year": 2014,
+      "month": 11,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Peter J.",
+          "family": "Clarke",
+          "orcid": ""
+        },
+        {
+          "given": "David A.",
+          "family": "Keith",
+          "orcid": ""
+        },
+        {
+          "given": "Ben E.",
+          "family": "Vincent",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1111/mec.14535": {
+      "doi": "10.1111/mec.14535",
+      "type": "journal-article",
+      "title": "Genomic diversity of a nectar yeast clusters into metabolically, but not geographically, distinct lineages",
+      "journal": "Molecular Ecology",
+      "volume": "27",
+      "issue": "8",
+      "pages": "2067-2076",
+      "year": 2018,
+      "month": 3,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Manpreet K.",
+          "family": "Dhami",
+          "orcid": "0000-0002-8956-0674"
+        },
+        {
+          "given": "Thomas",
+          "family": "Hartwig",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "Michael",
+          "family": "Banf",
+          "orcid": ""
+        },
+        {
+          "given": "Tadashi",
+          "family": "Fukami",
+          "orcid": "0000-0001-5654-4785"
+        }
+      ]
+    },
+    "10.1111/nph.14735": {
+      "doi": "10.1111/nph.14735",
+      "type": "journal-article",
+      "title": "Can dispersal investment explain why tall plant species achieve longer dispersal distances than short plant species?",
+      "journal": "New Phytologist",
+      "volume": "217",
+      "issue": "1",
+      "pages": "407-415",
+      "year": 2017,
+      "month": 8,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Fiona J.",
+          "family": "Thomson",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "Riin",
+          "family": "Tamme",
+          "orcid": ""
+        },
+        {
+          "given": "Will",
+          "family": "Edwards",
+          "orcid": ""
+        },
+        {
+          "given": "Angela T.",
+          "family": "Moles",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1111/oik.09573": {
+      "doi": "10.1111/oik.09573",
+      "type": "journal-article",
+      "title": "Different measures of niche and fitness differences tell different tales",
+      "journal": "Oikos",
+      "volume": "2023",
+      "issue": "4",
+      "pages": "e09573",
+      "year": 2022,
+      "month": 12,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Jurg W.",
+          "family": "Spaak",
+          "orcid": "0000-0001-5157-9188"
+        },
+        {
+          "given": "Po‐Ju",
+          "family": "Ke",
+          "orcid": "0000-0002-8371-7984"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Frederik",
+          "family": "De Laender",
+          "orcid": "0000-0002-4060-973X"
+        }
+      ]
+    },
+    "10.1371/journal.pbio.3003898": {
+      "doi": "10.1371/journal.pbio.3003898",
+      "type": "journal-article",
+      "title": "Growth-density inversion in Escherichia coli reveals superlinear, not sublinear, density dependence",
+      "journal": "PLOS Biology",
+      "volume": "24",
+      "issue": "7",
+      "pages": "e3003898",
+      "year": 2026,
+      "month": 7,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "James A.",
+          "family": "Orr",
+          "orcid": "0000-0002-6531-5623"
+        },
+        {
+          "given": "Kaleigh E.",
+          "family": "Davis",
+          "orcid": ""
+        },
+        {
+          "given": "Alicia H.",
+          "family": "Williams",
+          "orcid": ""
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": ""
+        },
+        {
+          "given": "Daniel B.",
+          "family": "Stouffer",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.32942/x2bk6v": {
+      "doi": "10.32942/x2bk6v",
+      "type": "posted-content",
+      "title": "We need to talk about (sublinear) density dependence",
+      "journal": "EcoEvoRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2024,
+      "month": 6,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.32942/x2f948": {
+      "doi": "10.32942/x2f948",
+      "type": "posted-content",
+      "title": "Density dependence revisited: strong evidence for superlinear population growth",
+      "journal": "EcoEvoRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2025,
+      "month": 7,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "James",
+          "family": "Orr",
+          "orcid": ""
+        },
+        {
+          "given": "Kaleigh",
+          "family": "Davis",
+          "orcid": ""
+        },
+        {
+          "given": "Alicia",
+          "family": "Williams",
+          "orcid": ""
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": ""
+        },
+        {
+          "given": "Daniel",
+          "family": "Stouffer",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    },
+    "10.32942/x2rs6n": {
+      "doi": "10.32942/x2rs6n",
+      "type": "posted-content",
+      "title": "Coexistence theory for microbial ecology, and vice versa",
+      "journal": "EcoEvoRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2024,
+      "month": 10,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "James",
+          "family": "Orr",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "David",
+          "family": "Armitage",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.64898/2025.12.03.692229": {
+      "doi": "10.64898/2025.12.03.692229",
+      "type": "posted-content",
+      "title": "Strong genotype-by-genotype and genotype-by-environment interactions induced by antibiotic resistance mutations",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2025,
+      "month": 12,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Alicia H.",
+          "family": "Williams",
+          "orcid": ""
+        },
+        {
+          "given": "Ian",
+          "family": "Gooi",
+          "orcid": ""
+        },
+        {
+          "given": "Madelaine",
+          "family": "Boggan",
+          "orcid": ""
+        },
+        {
+          "given": "Ziqing",
+          "family": "Liu",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": "0000-0003-3340-918X"
+        }
+      ]
+    },
+    "10.64898/2026.06.09.731231": {
+      "doi": "10.64898/2026.06.09.731231",
+      "type": "posted-content",
+      "title": "Mutations associated with streptomycin resistance predicted to be highly prevalent and evolvable across bacteria",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2026,
+      "month": 6,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Lê Na",
+          "family": "Ngô",
+          "orcid": "0009-0006-3581-732X"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": "0000-0003-3340-918X"
+        }
+      ]
+    },
+    "10.64898/2026.07.16.738797": {
+      "doi": "10.64898/2026.07.16.738797",
+      "type": "posted-content",
+      "title": "Shifting resource limitation explains multiphasic patterns of density dependence",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2026,
+      "month": 7,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        },
+        {
+          "given": "James A.",
+          "family": "Orr",
+          "orcid": ""
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": ""
+        },
+        {
+          "given": "Noelle A.",
+          "family": "Held",
+          "orcid": ""
+        },
+        {
+          "given": "Christopher",
+          "family": "Klausmeier",
+          "orcid": ""
+        },
+        {
+          "given": "Michael",
+          "family": "Manhart",
+          "orcid": "0000-0003-3791-9056"
+        },
+        {
+          "given": "Daniel B.",
+          "family": "Stouffer",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.64898/2026.08.19.745668": {
+      "doi": "10.64898/2026.08.19.745668",
+      "type": "posted-content",
+      "title": "Metabolic switching promotes microbial coexistence under fluctuating resources",
+      "journal": "bioRxiv",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "year": 2026,
+      "month": 8,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Yu-Pei",
+          "family": "Tseng",
+          "orcid": "0009-0006-8434-5840"
+        },
+        {
+          "given": "Jan",
+          "family": "Engelstädter",
+          "orcid": "0000-0003-3340-918X"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": "0000-0001-6436-7942"
+        }
+      ]
+    }
+  }
+}

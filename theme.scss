@@ -92,6 +92,38 @@ a:focus-visible {
   font-size: 1.2rem;
 }
 
+/* Publications page */
+
+.pub-list ul {
+  padding-left: 1.1rem;
+}
+
+.pub-list li {
+  margin-bottom: 0.8rem;
+  line-height: 1.45;
+}
+
+.pub-list li::marker {
+  color: $lime;
+}
+
+// Paper titles in the normal text colour, so only lab members stand out
+.pub-list a {
+  color: inherit;
+  text-decoration-color: rgba(255, 255, 255, 0.35);
+}
+
+.pub-list a:hover,
+.pub-list a:focus-visible {
+  color: #ffffff;
+  text-decoration-color: $lime;
+}
+
+.lab-member {
+  color: $lime;
+  font-weight: 700;
+}
+
 /* People page */
 
 .people-grid {

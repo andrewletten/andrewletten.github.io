@@ -1,0 +1,9 @@
+# Adjustments to the publication list pulled from ORCID.
+# List DOIs only (e.g. 10.1111/ele.14507), one per line starting with "- ".
+
+# Papers to hide (e.g. corrections, or anything ORCID has wrong)
+exclude: []
+
+# Papers to add that aren't on ORCID (they need a DOI)
+include:
+  - 10.1371/journal.pbio.3003898   # Orr et al. 2026 PLoS Biology (not yet on ORCID)

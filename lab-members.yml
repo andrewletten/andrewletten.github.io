@@ -1,0 +1,30 @@
+# Current and former lab members, highlighted on the Publications page.
+#
+# Names are matched against paper author lists by surname plus first name
+# (or first initial, when a paper only gives initials).
+#   - orcid:   optional; when given, matching uses the ORCID iD instead, which
+#              avoids mixing people up with others who share their name.
+#   - aliases: optional; other forms of the name used on papers
+#              (e.g. a shortened first name, or a maiden name).
+#
+# Example:
+# - name: Christopher Brown
+#   orcid: 0000-0000-0000-0000
+#   aliases: [Chris Brown]
+
+# Current members
+- name: Andrew Letten
+  orcid: 0000-0001-6436-7942
+- name: James Orr
+- name: Andrew Tuck
+- name: Negin Bolourchi
+- name: Christopher Brown
+- name: Vishwa Patel
+- name: James Richardson
+- name: Yu-Pei Tseng
+- name: Alicia Williams
+- name: Nick Bates
+
+# Alumni
+- name: Kaleigh Davis
+  aliases: [Kayleigh Davis]

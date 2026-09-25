@@ -1,5 +1,15 @@
-# Publications
+---
+title: Publications
+toc: true
+toc-expand: true
+execute:
+  echo: false
+---
 
-A complete publication list will be added shortly. For now, please see:
+For the most up-to-date list, see [Google Scholar](https://scholar.google.com.au/citations?user=Z9NWCuEAAAAJ&hl=en). Current and former lab members are highlighted in green.
 
-- [Google Scholar](https://scholar.google.com.au/citations?user=Z9NWCuEAAAAJ&hl=en) 
+```{r}
+#| output: asis
+source("_publications/publications.R")
+render_publications()
+```
