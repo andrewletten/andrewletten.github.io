@@ -1,7 +1,9 @@
 # Current and former lab members, highlighted on the Publications page.
 #
 # Names are matched against paper author lists by surname plus first name
-# (or first initial, when a paper only gives initials).
+# (or first initial, when a paper only gives initials). Short forms match the
+# full name they start (e.g. "Matt" matches "Matthew"), but other nicknames
+# need an alias (e.g. "Maddie" won't match "Madeleine").
 #   - orcid:   optional; when given, matching uses the ORCID iD instead, which
 #              avoids mixing people up with others who share their name.
 #   - aliases: optional; other forms of the name used on papers
@@ -26,5 +28,25 @@
 - name: Nick Bates
 
 # Alumni
+# (Co-supervised students, current or former, are deliberately left out.)
 - name: Kaleigh Davis
   aliases: [Kayleigh Davis]
+- name: Chetan Raval
+- name: Natalie Bruce
+- name: Alexandria Vander Velde
+- name: Jordan Walsh
+- name: Joshua Bloomfield
+- name: Matt Contarini
+- name: Michael Sessarago
+- name: Samuel Morris
+- name: Joseph Wenck
+- name: Samuel Lo
+- name: Bonnie Das
+- name: Derric Lim
+- name: Damien He
+- name: John Saxon
+- name: Yuna Zou
+- name: Sandy Hickson
+- name: Wenkang Huang
+- name: Emily Gates
+- name: Tricia Lee

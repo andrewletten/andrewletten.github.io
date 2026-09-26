@@ -88,4 +88,58 @@ title: People
 
 :::
 
-<!-- ## Alumni -->
+## Co-supervised Students
+
+- Le Na Ngo, PhD student ([Engelstädter lab](https://engelstaedterlab.org/))
+- Zoe Lieb, PhD student (Luskin lab)
+- Jordan Drochmann, PhD student (Dwyer lab)
+- Tim Temizyurek, PhD student (Hart lab)
+- Edward Liu, MPhil student ([Engelstädter lab](https://engelstaedterlab.org/))
+- Indigo Grigg, Honours student
+
+## Alumni
+
+### Postdocs
+
+- Kaleigh Davis (next stop: Postdoc at University of Guelph with Joey Bernhardt)
+
+### Research Assistants
+
+- Joseph Wenck (2025-2026)
+- Alicia Williams (2022-2024)
+
+### Masters Students
+
+- Chetan Raval (next stop: Business Analyst at Auto & General)
+
+### Honours Students
+
+- Joshua Bloomfield (2022-2023)
+- Edward Liu (2023) (ADL co-supervisor)
+- Oscar Delaney (2023) (ADL co-supervisor)
+- Yuhan Zhu (2023) (ADL co-supervisor)
+- Sophie Middleton (2023) (ADL co-supervisor)
+- Matt Contarini (2022-2023) (next stop: Data Scientist at CSIRO)
+- Alicia Williams (2021-2022) (next stop: Research Assistant in the ALJE Lab)
+- Maddie Boggan (2021-2022) (ADL co-supervisor) (next stop: Data Analyst at insurance firm)
+- Alan Sunil (2021) (ADL co-supervisor) (next stop: Master of Bioinformatics at UQ)
+
+### Undergraduate Researchers
+
+- Natalie Bruce (2025-2026)
+- Nicholas Bates (2025-2026)
+- Alexandria Vander Velde (2025)
+- Jordan Walsh (2024-2025)
+- Michael Sessarago (2022-2023)
+- Samuel Morris (2022-2023)
+- Joseph Wenck (2022-2023)
+- Samuel Lo (2022-2023)
+- Bonnie Das (2022)
+- Derric Lim (2022)
+- Damien He (2021-2022)
+- John Saxon (2021-2022)
+- Yuna Zou (2021-2022)
+- Sandy Hickson (2020-2021) (now PhD at Oxford)
+- Wenkang Huang (2020-2021) (now PhD at UQ)
+- Emily Gates (2020-2021)
+- Tricia Lee (2020-2021)

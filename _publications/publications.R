@@ -158,16 +158,20 @@ load_members <- function() {
       orcid = m$orcid %||% "",
       keys  = lapply(names, function(n) {
         parts <- strsplit(trimws(n), "\\s+")[[1]]
-        list(given = simplify(parts[1]), family = simplify(parts[length(parts)]))
+        # Everything after the first name is the surname (e.g. "Vander Velde")
+        list(given = simplify(parts[1]), family = simplify(paste(parts[-1], collapse = " ")))
       })
     )
   })
 }
 
-# Full first names must match exactly; an initial matches any name starting with it
+# An initial matches any name starting with it; a short form matches the full
+# name it starts (e.g. "Matt" and "Matthew"); otherwise names must be identical
 given_matches <- function(a, b) {
   if (!nzchar(a) || !nzchar(b)) return(FALSE)
-  if (nchar(a) == 1 || nchar(b) == 1) substr(a, 1, 1) == substr(b, 1, 1) else a == b
+  if (nchar(a) == 1 || nchar(b) == 1) return(substr(a, 1, 1) == substr(b, 1, 1))
+  if (min(nchar(a), nchar(b)) >= 3) return(startsWith(a, b) || startsWith(b, a))
+  a == b
 }
 
 # Split names on any kind of space (Crossref sometimes uses non-breaking spaces)
