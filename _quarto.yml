@@ -8,9 +8,9 @@ website:
   favicon: images/favicon.svg
 
   navbar:
-    logo: images/logo.svg
-    logo-alt: "Letten Lab logo"
-    title: "Letten Lab [Microbial Evolution and Population Dynamics]{.navbar-tagline}"
+    logo: images/logo-dark.png
+    logo-alt: "Letten Lab"
+    title: "[Microbial Evolution and Population Dynamics]{.navbar-tagline}"
     left:
       - href: index.qmd
         text: Home
