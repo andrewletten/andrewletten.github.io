@@ -95,7 +95,7 @@ title: People
 - Jordan Drochmann, PhD student (Dwyer lab)
 - Tim Temizyurek, PhD student (Hart lab)
 - Edward Liu, MPhil student ([Engelstädter lab](https://engelstaedterlab.org/))
-- Indigo Grigg, Honours student
+- Indigo Grigg, Honours student ([Engelstädter lab](https://engelstaedterlab.org/))
 
 ## Alumni
 
