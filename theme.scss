@@ -81,10 +81,22 @@ $table-border-color: $border-color;
   color: $lime;
 }
 
-// Not enough room on phones
+// On phones, the tagline wraps onto two lines under the logo
+// ("Microbial Evolution and" / "Population Dynamics")
 @media (max-width: 575.98px) {
+  .navbar-brand {
+    white-space: normal;
+    overflow: visible;
+  }
+
   .navbar-tagline {
-    display: none;
+    font-size: 0.56rem;
+    line-height: 1.3;
+  }
+
+  .tagline-part {
+    display: block;
+    white-space: nowrap;
   }
 }
 
