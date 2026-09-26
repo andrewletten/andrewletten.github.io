@@ -10,6 +10,7 @@ website:
   navbar:
     logo: images/logo.svg
     logo-alt: "Letten Lab logo"
+    title: "Letten Lab [Microbial Evolution and Population Dynamics]{.navbar-tagline}"
     left:
       - href: index.qmd
         text: Home
