@@ -116,6 +116,38 @@ a:focus-visible {
   border-radius: 2px;
 }
 
+/* Home page: select recent work */
+
+.paper-grid {
+  row-gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.paper-card {
+  background-color: $slate-light;
+  border-radius: 8px;
+  padding: 1rem;
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+
+// Same-sized white frame for every figure, with the whole figure visible
+.paper-figure {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  background-color: #ffffff;
+  padding: 0.5rem;
+}
+
+.paper-card p {
+  margin-bottom: 0.75rem;
+}
+
+.paper-card p:last-child {
+  margin-bottom: 0;
+}
+
 /* Footer */
 
 .nav-footer {
