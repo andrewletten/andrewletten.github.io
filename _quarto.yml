@@ -8,6 +8,8 @@ website:
   favicon: images/favicon.svg
 
   navbar:
+    logo: images/logo.svg
+    logo-alt: "Letten Lab logo"
     left:
       - href: index.qmd
         text: Home

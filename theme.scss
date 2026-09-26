@@ -50,6 +50,11 @@ $table-border-color: $border-color;
   font-weight: 700;
 }
 
+.navbar-brand .navbar-logo {
+  max-height: 38px;
+  margin-right: 0.4rem;
+}
+
 h1 {
   margin-top: 1rem;
 }
@@ -84,6 +89,8 @@ a:focus-visible {
   font-size: 1.6rem;
   font-weight: 700;
   color: $lime;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
   margin: 1.5rem 0 0.5rem;
 }
 

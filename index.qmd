@@ -2,7 +2,7 @@
 title: ""
 ---
 
-[Microbial evolution and population dynamics]{.tagline}
+[Microbial Eco-evolutionary Dynamics]{.tagline}
 
 Welcome to the Letten Lab at the University of Queensland. Our  research broadly aims to increase fundamental understanding of microbial population dynamics and evolution, and to bring this knowledge to bear on problems of environmental and human health. We tackle this through a close integration of experiments, mathematical modelling and statistical learning. Our backgrounds span ecology, evolution, microbiology, bioinformatics, biochemistry, computer science, and mathematics.
 
