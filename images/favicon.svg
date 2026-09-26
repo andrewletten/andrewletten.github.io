@@ -1,5 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <rect width="64" height="64" rx="14" fill="#33404b"/>
-  <rect x="10" y="22" width="44" height="20" rx="10" fill="#bcde72" transform="rotate(-35 32 32)"/>
-  <rect x="17" y="28" width="30" height="8" rx="4" fill="#435464" opacity="0.35" transform="rotate(-35 32 32)"/>
+  <!-- Lab logo (on-dark version), scaled to fit the square; the smallest dots are enlarged slightly so they stay visible at tab size -->
+  <g transform="translate(3.5 8) scale(0.68) translate(-10 -16)">
+    <circle cx="14.9" cy="80.4" r="1.8" fill="#B9DD6E"/>
+    <circle cx="16.9" cy="70.3" r="2" fill="#B9DD6E"/>
+    <circle cx="19.8" cy="60.3" r="2" fill="#B9DD6E"/>
+    <circle cx="23.4" cy="52" r="2.3" fill="#B9DD6E"/>
+    <circle cx="27.7" cy="45.3" r="2.6" fill="#B9DD6E"/>
+    <circle cx="32.7" cy="40.1" r="2.9" fill="#B9DD6E"/>
+    <circle cx="38.5" cy="35.9" r="3.1" fill="#B9DD6E"/>
+    <circle cx="45" cy="32.7" r="3.3" fill="#B9DD6E"/>
+    <circle cx="52.2" cy="30.1" r="3.5" fill="#B9DD6E"/>
+    <circle cx="60.1" cy="28" r="3.6" fill="#B9DD6E"/>
+    <circle cx="68.7" cy="26.3" r="3.7" fill="#B9DD6E"/>
+    <circle cx="77.4" cy="25" r="3.8" fill="#B9DD6E"/>
+    <circle cx="86" cy="24" r="4.2" fill="#FFFFFF"/>
+  </g>
 </svg>
