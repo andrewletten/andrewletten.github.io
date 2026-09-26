@@ -27,7 +27,7 @@ title: People
 
 [Andrew Tuck]{.person-name}
 
-[Lab manager (Letten and Engelstaedter labs)]{.person-role}
+[Lab manager (Letten and Engelstädter labs)]{.person-role}
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-lg-4 .person-card}

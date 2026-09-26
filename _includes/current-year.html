@@ -1,0 +1,8 @@
+<!-- Keeps the footer copyright year current (runs once the page, including the footer, has loaded) -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".current-year").forEach(function (el) {
+      el.textContent = new Date().getFullYear();
+    });
+  });
+</script>

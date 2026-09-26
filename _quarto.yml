@@ -5,7 +5,13 @@ project:
 
 website:
   title: "Letten Lab"
+  site-url: https://andrewletten.net
+  description: "The Letten Lab at the University of Queensland studies microbial evolution and population dynamics, combining experiments, mathematical modelling and statistical learning."
   favicon: images/favicon.svg
+  open-graph:
+    image: images/social-preview.png
+  twitter-card:
+    image: images/social-preview.png
 
   navbar:
     logo: images/logo-dark.png
@@ -21,7 +27,7 @@ website:
 
   page-footer:
     left: |
-      © 2026 Letten Lab · University of Queensland
+      © [2026]{.current-year} Letten Lab · University of Queensland
     right:
       - icon: envelope-fill
         href: mailto:a.letten@uq.edu.au
@@ -37,3 +43,4 @@ format:
   html:
     theme: [flatly, theme.scss]
     toc: false
+    include-after-body: _includes/current-year.html
