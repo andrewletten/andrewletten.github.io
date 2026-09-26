@@ -76,6 +76,18 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<meta property="og:title" content="Letten Lab">
+<meta property="og:description" content="The Letten Lab at the University of Queensland studies microbial evolution and population dynamics, combining experiments, mathematical modelling and statistical learning.">
+<meta property="og:image" content="https://andrewletten.net/images/social-preview.png">
+<meta property="og:site_name" content="Letten Lab">
+<meta property="og:image:height" content="630">
+<meta property="og:image:width" content="1200">
+<meta name="twitter:title" content="Letten Lab">
+<meta name="twitter:description" content="The Letten Lab at the University of Queensland studies microbial evolution and population dynamics, combining experiments, mathematical modelling and statistical learning.">
+<meta name="twitter:image" content="https://andrewletten.net/images/social-preview.png">
+<meta name="twitter:image-height" content="630">
+<meta name="twitter:image-width" content="1200">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -139,17 +151,17 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="join-the-lab" class="level1">
 <h1>Join the Lab</h1>
-<p>Please email me (a.letten@uq.edu.au) if you are interested in joining the lab (including a CV and brief description of your interests). The work in the group straddles both theoretical and experimental research. With this in mind, theoreticians, experimentalists, and everyone in between are equally welcome - maths and programming skills are handy, but so is knowing how to handle a pipette. Scientific curiosity and collegiality are prerequisites. We work closely with the <a href="https://engelstaedterlab.org/">Engelstädter lab</a> at UQ, including sharing office and lab space, and running joint lab meetings, social events and retreats, with many team members co-advised by both Andrew and Jan.&nbsp;As a combined group, we call ourselves the ALJE lab (not to be confused with an algae lab).</p>
+<p>Please email me (<a href="mailto:a.letten@uq.edu.au">a.letten@uq.edu.au</a>) if you are interested in joining the lab (including a CV and brief description of your interests). The work in the group straddles both theoretical and experimental research. With this in mind, theoreticians, experimentalists, and everyone in between are equally welcome - maths and programming skills are handy, but so is knowing how to handle a pipette. Scientific curiosity and collegiality are prerequisites. We work closely with the <a href="https://engelstaedterlab.org/">Engelstädter lab</a> at UQ, including sharing office and lab space, and running joint lab meetings, social events and retreats, with many team members co-advised by both Andrew and Jan.&nbsp;As a combined group, we call ourselves the ALJE lab (not to be confused with an algae lab).</p>
 <section id="postdocs" class="level2">
 <h2 class="anchored" data-anchor-id="postdocs">Postdocs</h2>
 <p>I would be delighted to support competitive postdocs in writing fellowship applications. We have had past success with both ARC DECRA and the Marie Curie scheme. Potential fellowships include:</p>
 <p><a href="https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra">ARC Discovery Early Career Research award</a> (open to all researchers within five years of PhD)</p>
-<p><a href="https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en">Marie Skłodowska-Curie Actions Global Fellowships</a> (open to researchers based in the EU or associated countries)</p>
+<p><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships</a> (open to researchers based in the EU or associated countries)</p>
 <p><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships">Human Frontier Science Program (HFSP) postdoctoral fellowship</a> (open to many researchers from many countries)</p>
 </section>
 <section id="phd-and-masters" class="level2">
 <h2 class="anchored" data-anchor-id="phd-and-masters">PhD and Masters</h2>
-<p>PhD and Masters students should contact me as early as possible in the application cycle (see UQGSS for deadlines). I am very happy to support domestic students in applying for Australian Government Research Training Program Scholarships, and both domestic and international students in applying for <a href="https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-%E2%80%93-includes-rtp">UQ Graduate School Scholarships</a></p>
+<p>PhD and Masters students should contact me as early as possible in the application cycle (see UQ Graduate School Scholarships (UQGSS) for deadlines). I am very happy to support domestic students in applying for Australian Government Research Training Program Scholarships, and both domestic and international students in applying for <a href="https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-%E2%80%93-includes-rtp">UQ Graduate School Scholarships</a>.</p>
 </section>
 <section id="honours-and-undergraduates" class="level2">
 <h2 class="anchored" data-anchor-id="honours-and-undergraduates">Honours and Undergraduates</h2>
@@ -160,6 +172,14 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<!-- Keeps the footer copyright year current (runs once the page, including the footer, has loaded) -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".current-year").forEach(function (el) {
+      el.textContent = new Date().getFullYear();
+    });
+  });
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -233,7 +253,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/andrewletten\.net");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -564,7 +584,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2026 Letten Lab · University of Queensland</p>
+<p>© <span class="current-year">2026</span> Letten Lab · University of Queensland</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
