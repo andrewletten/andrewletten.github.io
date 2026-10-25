@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://andrewletten.net/contact.html</loc>
-    <lastmod>2026-10-18T22:10:44.035Z</lastmod>
-  </url>
-  <url>
-    <loc>https://andrewletten.net/people.html</loc>
-    <lastmod>2026-10-18T22:10:44.040Z</lastmod>
-  </url>
-  <url>
     <loc>https://andrewletten.net/index.html</loc>
-    <lastmod>2026-10-18T22:10:44.040Z</lastmod>
+    <lastmod>2026-10-25T22:13:57.079Z</lastmod>
   </url>
   <url>
     <loc>https://andrewletten.net/publications.html</loc>
-    <lastmod>2026-10-18T22:10:44.040Z</lastmod>
+    <lastmod>2026-10-25T22:13:57.079Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andrewletten.net/contact.html</loc>
+    <lastmod>2026-10-25T22:13:57.073Z</lastmod>
   </url>
   <url>
     <loc>https://andrewletten.net/join.html</loc>
-    <lastmod>2026-10-18T22:10:44.040Z</lastmod>
+    <lastmod>2026-10-25T22:13:57.079Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andrewletten.net/people.html</loc>
+    <lastmod>2026-10-25T22:13:57.079Z</lastmod>
   </url>
 </urlset>
