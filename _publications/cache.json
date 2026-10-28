@@ -435,6 +435,50 @@
         }
       ]
     },
+    "10.1002/oik.11467": {
+      "doi": "10.1002/oik.11467",
+      "type": "journal-article",
+      "title": "Selection changes productivity over time",
+      "journal": "Oikos",
+      "volume": "2026",
+      "issue": "10",
+      "pages": "e11467",
+      "year": 2026,
+      "month": 10,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "William",
+          "family": "Godsoe",
+          "orcid": "0000-0003-1697-6916"
+        },
+        {
+          "given": "Ryosuke",
+          "family": "Iritani",
+          "orcid": "0000-0002-2396-1109"
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "Elena",
+          "family": "Moltchanova",
+          "orcid": ""
+        },
+        {
+          "given": "Rua",
+          "family": "Murray",
+          "orcid": ""
+        },
+        {
+          "given": "Philipp",
+          "family": "Wacker",
+          "orcid": ""
+        }
+      ]
+    },
     "10.1007/s00442-016-3700-8": {
       "doi": "10.1007/s00442-016-3700-8",
       "type": "journal-article",
@@ -499,6 +543,45 @@
         {
           "given": "Angela T.",
           "family": "Moles",
+          "orcid": ""
+        }
+      ]
+    },
+    "10.1007/s12080-023-00560-6": {
+      "doi": "10.1007/s12080-023-00560-6",
+      "type": "journal-article",
+      "title": "The effect of non-linear competitive interactions on quantifying niche and fitness differences",
+      "journal": "Theoretical Ecology",
+      "volume": "16",
+      "issue": "2",
+      "pages": "161-170",
+      "year": 2023,
+      "month": 5,
+      "published_as": [],
+      "authors": [
+        {
+          "given": "Jurg W.",
+          "family": "Spaak",
+          "orcid": "0000-0001-5157-9188"
+        },
+        {
+          "given": "Remi",
+          "family": "Millet",
+          "orcid": ""
+        },
+        {
+          "given": "Po-Ju",
+          "family": "Ke",
+          "orcid": ""
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Letten",
+          "orcid": ""
+        },
+        {
+          "given": "Frederik",
+          "family": "De Laender",
           "orcid": ""
         }
       ]
