@@ -1,10 +1,73 @@
 [
   {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Please email me (a.letten@uq.edu.au) if you are interested in joining the lab (including a CV and brief description of your interests). The work in the group straddles both theoretical and experimental research. With this in mind, theoreticians, experimentalists, and everyone in between are equally welcome - maths and programming skills are handy, but so is knowing how to handle a pipette. Scientific curiosity and collegiality are prerequisites. We work closely with the Engelstädter lab at UQ, including sharing office and lab space, and running joint lab meetings, social events and retreats, with many team members co-advised by both Andrew and Jan. As a combined group, we call ourselves the ALJE lab (not to be confused with an algae lab).\n\n\nI would be delighted to support competitive postdocs in writing fellowship applications. We have had past success with both ARC DECRA and the Marie Curie scheme. Potential fellowships include:\nARC Discovery Early Career Research award (open to all researchers within five years of PhD)\nMarie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships (open to researchers based in the EU or associated countries)\nHuman Frontier Science Program (HFSP) postdoctoral fellowship (open to many researchers from many countries)\n\n\n\nPhD and Masters students should contact me as early as possible in the application cycle (see UQ Graduate School Scholarships (UQGSS) for deadlines). I am very happy to support domestic students in applying for Australian Government Research Training Program Scholarships, and both domestic and international students in applying for UQ Graduate School Scholarships.\n\n\n\nSend me an email or knock on my door (Rm 242 Goddard)!"
+  },
+  {
+    "objectID": "join.html#postdocs",
+    "href": "join.html#postdocs",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "I would be delighted to support competitive postdocs in writing fellowship applications. We have had past success with both ARC DECRA and the Marie Curie scheme. Potential fellowships include:\nARC Discovery Early Career Research award (open to all researchers within five years of PhD)\nMarie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships (open to researchers based in the EU or associated countries)\nHuman Frontier Science Program (HFSP) postdoctoral fellowship (open to many researchers from many countries)"
+  },
+  {
+    "objectID": "join.html#phd-and-masters",
+    "href": "join.html#phd-and-masters",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "PhD and Masters students should contact me as early as possible in the application cycle (see UQ Graduate School Scholarships (UQGSS) for deadlines). I am very happy to support domestic students in applying for Australian Government Research Training Program Scholarships, and both domestic and international students in applying for UQ Graduate School Scholarships."
+  },
+  {
+    "objectID": "join.html#honours-and-undergraduates",
+    "href": "join.html#honours-and-undergraduates",
+    "title": "Join the Lab",
+    "section": "",
+    "text": "Send me an email or knock on my door (Rm 242 Goddard)!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Letten Lab",
     "section": "",
     "text": "Welcome to the Letten Lab at the University of Queensland. Our research broadly aims to increase fundamental understanding of microbial population dynamics and evolution, and to bring this knowledge to bear on problems of environmental and human health. We tackle this through a close integration of experiments, mathematical modelling and statistical learning. Our backgrounds span ecology, evolution, microbiology, bioinformatics, biochemistry, computer science, and mathematics.\nCurrent research in the group primarily orbits around three core research problems/gaps:\n\nUnderstanding how trade-offs in bacterial competitive fitness interact with environmental variability to mediate the evolution of antibiotic resistance.\nUnderstanding the role of nonequilibrium dynamics in regulating microbial community assembly.\nUnderstanding the shape of density dependence, from populations to ecosystems.\n\n\n\nRecent work\n\n\n\nOrr et al. (2026) Growth-density inversion in Escherichia coli reveals superlinear, not sublinear, density dependence, PLoS Biology.\n\n\n\nBolourchi et al. (2025) Evolution and evolvability of rifampicin resistance across the bacterial tree of life, PNAS, 122(31) e2424307122.\n\n\n\nLetten. (2025) Making sense of (sublinear) density dependence, Trends in Ecology & Evolution, 40(7) 622-625.\n\n\n\nRichardson, Engelstädter and Letten. (2025) A unifying principle for multispecies coexistence under resource fluctuations, PNAS, 122(24) e2424996122.\n\n\n\nOrr, Armitage and Letten. (2025) Coexistence theory for microbial ecology, and vice versa, Environmental Microbiology, 27(3) e70072.\n\n\n\nLetten et al. (2024) Microbial Dormancy Supports Multi-Species Coexistence Under Resource Fluctuations, Ecology Letters, 27(9) e14507.\n\n\nSee all publications"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Andrew Letten\nPrincipal Investigator\n\n\n\nJames Orr\nARC DECRA Postdoctoral Fellow\n\n\n\nAndrew Tuck\nLab manager (Letten and Engelstädter labs)\n\n\n\nNegin Bolourchi\nPhD student\n\n\n\nChristopher Brown\nPhD student\n\n\n\nVishwa Patel\nPhD student\n\n\n\nJames Richardson\nPhD student\n\n\n\nYu-Pei Tseng\nPhD student\n\n\n\nAlicia Williams\nPhD student (primary advisor Dr James Orr)\n\n\n\nNB\n\nNick Bates\n3rd year research project"
+  },
+  {
+    "objectID": "people.html#current-members",
+    "href": "people.html#current-members",
+    "title": "People",
+    "section": "",
+    "text": "Andrew Letten\nPrincipal Investigator\n\n\n\nJames Orr\nARC DECRA Postdoctoral Fellow\n\n\n\nAndrew Tuck\nLab manager (Letten and Engelstädter labs)\n\n\n\nNegin Bolourchi\nPhD student\n\n\n\nChristopher Brown\nPhD student\n\n\n\nVishwa Patel\nPhD student\n\n\n\nJames Richardson\nPhD student\n\n\n\nYu-Pei Tseng\nPhD student\n\n\n\nAlicia Williams\nPhD student (primary advisor Dr James Orr)\n\n\n\nNB\n\nNick Bates\n3rd year research project"
+  },
+  {
+    "objectID": "people.html#co-supervised-students",
+    "href": "people.html#co-supervised-students",
+    "title": "People",
+    "section": "Co-supervised Students",
+    "text": "Co-supervised Students\n\nLe Na Ngo, PhD student (Engelstädter lab)\nZoe Lieb, PhD student (Luskin lab)\nJordan Drochmann, PhD student (Dwyer lab)\nTim Temizyurek, PhD student (Hart lab)\nEdward Liu, MPhil student (Engelstädter lab)\nIndigo Grigg, Honours student (Engelstädter lab)"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\nPostdocs\n\nKaleigh Davis (next stop: Postdoc at University of Guelph with Joey Bernhardt)\n\n\n\nResearch Assistants\n\nJoseph Wenck (2025-2026)\nAlicia Williams (2022-2024)\n\n\n\nMasters Students\n\nChetan Raval (next stop: Business Analyst at Auto & General)\n\n\n\nHonours Students\n\nJoshua Bloomfield (2022-2023)\nEdward Liu (2023) (ADL co-supervisor)\nOscar Delaney (2023) (ADL co-supervisor)\nYuhan Zhu (2023) (ADL co-supervisor)\nSophie Middleton (2023) (ADL co-supervisor)\nMatt Contarini (2022-2023) (next stop: Data Scientist at CSIRO)\nAlicia Williams (2021-2022) (next stop: Research Assistant in the ALJE Lab)\nMaddie Boggan (2021-2022) (ADL co-supervisor) (next stop: Data Analyst at insurance firm)\nAlan Sunil (2021) (ADL co-supervisor) (next stop: Master of Bioinformatics at UQ)\n\n\n\nUndergraduate Researchers\n\nNatalie Bruce (2025-2026)\nNicholas Bates (2025-2026)\nAlexandria Vander Velde (2025)\nJordan Walsh (2024-2025)\nMichael Sessarago (2022-2023)\nSamuel Morris (2022-2023)\nJoseph Wenck (2022-2023)\nSamuel Lo (2022-2023)\nBonnie Das (2022)\nDerric Lim (2022)\nDamien He (2021-2022)\nJohn Saxon (2021-2022)\nYuna Zou (2021-2022)\nSandy Hickson (2020-2021) (now PhD at Oxford)\nWenkang Huang (2020-2021) (now PhD at UQ)\nEmily Gates (2020-2021)\nTricia Lee (2020-2021)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\na.letten@uq.edu.au\nGoddard Building\nThe University of Queensland\nSt Lucia QLD 4072, Australia\nInterested in joining the lab? See Join the Lab."
   },
   {
     "objectID": "publications.html",
@@ -124,68 +187,5 @@
     "title": "Publications",
     "section": "2009",
     "text": "2009\n\n\nLetten AD, Midgley JJ (2009). Rodent pollination in the Cape legume Liparia parva. Austral Ecology 34(2): 233-236."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\na.letten@uq.edu.au\nGoddard Building\nThe University of Queensland\nSt Lucia QLD 4072, Australia\nInterested in joining the lab? See Join the Lab."
-  },
-  {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Join the Lab",
-    "section": "",
-    "text": "Please email me (a.letten@uq.edu.au) if you are interested in joining the lab (including a CV and brief description of your interests). The work in the group straddles both theoretical and experimental research. With this in mind, theoreticians, experimentalists, and everyone in between are equally welcome - maths and programming skills are handy, but so is knowing how to handle a pipette. Scientific curiosity and collegiality are prerequisites. We work closely with the Engelstädter lab at UQ, including sharing office and lab space, and running joint lab meetings, social events and retreats, with many team members co-advised by both Andrew and Jan. As a combined group, we call ourselves the ALJE lab (not to be confused with an algae lab).\n\n\nI would be delighted to support competitive postdocs in writing fellowship applications. We have had past success with both ARC DECRA and the Marie Curie scheme. Potential fellowships include:\nARC Discovery Early Career Research award (open to all researchers within five years of PhD)\nMarie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships (open to researchers based in the EU or associated countries)\nHuman Frontier Science Program (HFSP) postdoctoral fellowship (open to many researchers from many countries)\n\n\n\nPhD and Masters students should contact me as early as possible in the application cycle (see UQ Graduate School Scholarships (UQGSS) for deadlines). I am very happy to support domestic students in applying for Australian Government Research Training Program Scholarships, and both domestic and international students in applying for UQ Graduate School Scholarships.\n\n\n\nSend me an email or knock on my door (Rm 242 Goddard)!"
-  },
-  {
-    "objectID": "join.html#postdocs",
-    "href": "join.html#postdocs",
-    "title": "Join the Lab",
-    "section": "",
-    "text": "I would be delighted to support competitive postdocs in writing fellowship applications. We have had past success with both ARC DECRA and the Marie Curie scheme. Potential fellowships include:\nARC Discovery Early Career Research award (open to all researchers within five years of PhD)\nMarie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowships (open to researchers based in the EU or associated countries)\nHuman Frontier Science Program (HFSP) postdoctoral fellowship (open to many researchers from many countries)"
-  },
-  {
-    "objectID": "join.html#phd-and-masters",
-    "href": "join.html#phd-and-masters",
-    "title": "Join the Lab",
-    "section": "",
-    "text": "PhD and Masters students should contact me as early as possible in the application cycle (see UQ Graduate School Scholarships (UQGSS) for deadlines). I am very happy to support domestic students in applying for Australian Government Research Training Program Scholarships, and both domestic and international students in applying for UQ Graduate School Scholarships."
-  },
-  {
-    "objectID": "join.html#honours-and-undergraduates",
-    "href": "join.html#honours-and-undergraduates",
-    "title": "Join the Lab",
-    "section": "",
-    "text": "Send me an email or knock on my door (Rm 242 Goddard)!"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Andrew Letten\nPrincipal Investigator\n\n\n\nJames Orr\nARC DECRA Postdoctoral Fellow\n\n\n\nAndrew Tuck\nLab manager (Letten and Engelstädter labs)\n\n\n\nNegin Bolourchi\nPhD student\n\n\n\nChristopher Brown\nPhD student\n\n\n\nVishwa Patel\nPhD student\n\n\n\nJames Richardson\nPhD student\n\n\n\nYu-Pei Tseng\nPhD student\n\n\n\nAlicia Williams\nPhD student (primary advisor Dr James Orr)\n\n\n\nNB\n\nNick Bates\n3rd year research project"
-  },
-  {
-    "objectID": "people.html#current-members",
-    "href": "people.html#current-members",
-    "title": "People",
-    "section": "",
-    "text": "Andrew Letten\nPrincipal Investigator\n\n\n\nJames Orr\nARC DECRA Postdoctoral Fellow\n\n\n\nAndrew Tuck\nLab manager (Letten and Engelstädter labs)\n\n\n\nNegin Bolourchi\nPhD student\n\n\n\nChristopher Brown\nPhD student\n\n\n\nVishwa Patel\nPhD student\n\n\n\nJames Richardson\nPhD student\n\n\n\nYu-Pei Tseng\nPhD student\n\n\n\nAlicia Williams\nPhD student (primary advisor Dr James Orr)\n\n\n\nNB\n\nNick Bates\n3rd year research project"
-  },
-  {
-    "objectID": "people.html#co-supervised-students",
-    "href": "people.html#co-supervised-students",
-    "title": "People",
-    "section": "Co-supervised Students",
-    "text": "Co-supervised Students\n\nLe Na Ngo, PhD student (Engelstädter lab)\nZoe Lieb, PhD student (Luskin lab)\nJordan Drochmann, PhD student (Dwyer lab)\nTim Temizyurek, PhD student (Hart lab)\nEdward Liu, MPhil student (Engelstädter lab)\nIndigo Grigg, Honours student (Engelstädter lab)"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\nPostdocs\n\nKaleigh Davis (next stop: Postdoc at University of Guelph with Joey Bernhardt)\n\n\n\nResearch Assistants\n\nJoseph Wenck (2025-2026)\nAlicia Williams (2022-2024)\n\n\n\nMasters Students\n\nChetan Raval (next stop: Business Analyst at Auto & General)\n\n\n\nHonours Students\n\nJoshua Bloomfield (2022-2023)\nEdward Liu (2023) (ADL co-supervisor)\nOscar Delaney (2023) (ADL co-supervisor)\nYuhan Zhu (2023) (ADL co-supervisor)\nSophie Middleton (2023) (ADL co-supervisor)\nMatt Contarini (2022-2023) (next stop: Data Scientist at CSIRO)\nAlicia Williams (2021-2022) (next stop: Research Assistant in the ALJE Lab)\nMaddie Boggan (2021-2022) (ADL co-supervisor) (next stop: Data Analyst at insurance firm)\nAlan Sunil (2021) (ADL co-supervisor) (next stop: Master of Bioinformatics at UQ)\n\n\n\nUndergraduate Researchers\n\nNatalie Bruce (2025-2026)\nNicholas Bates (2025-2026)\nAlexandria Vander Velde (2025)\nJordan Walsh (2024-2025)\nMichael Sessarago (2022-2023)\nSamuel Morris (2022-2023)\nJoseph Wenck (2022-2023)\nSamuel Lo (2022-2023)\nBonnie Das (2022)\nDerric Lim (2022)\nDamien He (2021-2022)\nJohn Saxon (2021-2022)\nYuna Zou (2021-2022)\nSandy Hickson (2020-2021) (now PhD at Oxford)\nWenkang Huang (2020-2021) (now PhD at UQ)\nEmily Gates (2020-2021)\nTricia Lee (2020-2021)"
   }
 ]
