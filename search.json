@@ -28,13 +28,6 @@
     "text": "Send me an email or knock on my door (Rm 242 Goddard)!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Letten Lab",
-    "section": "",
-    "text": "Welcome to the Letten Lab at the University of Queensland. Our research broadly aims to increase fundamental understanding of microbial population dynamics and evolution, and to bring this knowledge to bear on problems of environmental and human health. We tackle this through a close integration of experiments, mathematical modelling and statistical learning. Our backgrounds span ecology, evolution, microbiology, bioinformatics, biochemistry, computer science, and mathematics.\nCurrent research in the group primarily orbits around three core research problems/gaps:\n\nUnderstanding how trade-offs in bacterial competitive fitness interact with environmental variability to mediate the evolution of antibiotic resistance.\nUnderstanding the role of nonequilibrium dynamics in regulating microbial community assembly.\nUnderstanding the shape of density dependence, from populations to ecosystems.\n\n\n\nRecent work\n\n\n\nOrr et al. (2026) Growth-density inversion in Escherichia coli reveals superlinear, not sublinear, density dependence, PLoS Biology.\n\n\n\nBolourchi et al. (2025) Evolution and evolvability of rifampicin resistance across the bacterial tree of life, PNAS, 122(31) e2424307122.\n\n\n\nLetten. (2025) Making sense of (sublinear) density dependence, Trends in Ecology & Evolution, 40(7) 622-625.\n\n\n\nRichardson, Engelstädter and Letten. (2025) A unifying principle for multispecies coexistence under resource fluctuations, PNAS, 122(24) e2424996122.\n\n\n\nOrr, Armitage and Letten. (2025) Coexistence theory for microbial ecology, and vice versa, Environmental Microbiology, 27(3) e70072.\n\n\n\nLetten et al. (2024) Microbial Dormancy Supports Multi-Species Coexistence Under Resource Fluctuations, Ecology Letters, 27(9) e14507.\n\n\nSee all publications"
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -81,7 +74,7 @@
     "href": "publications.html#preprints",
     "title": "Publications",
     "section": "Preprints",
-    "text": "Preprints\n\n\nTseng YP, Engelstädter J, Letten AD (2026). Metabolic switching promotes microbial coexistence under fluctuating resources. bioRxiv.\nLetten AD, Orr JA, Engelstädter J, Held NA, Klausmeier C, Manhart M, Stouffer DB (2026). Shifting resource limitation explains multiphasic patterns of density dependence. bioRxiv.\nNgô LN, Letten AD, Engelstädter J (2026). Mutations associated with streptomycin resistance predicted to be highly prevalent and evolvable across bacteria. bioRxiv.\nWilliams AH, Gooi I, Boggan M, Liu Z, Letten AD, Engelstädter J (2025). Strong genotype-by-genotype and genotype-by-environment interactions induced by antibiotic resistance mutations. bioRxiv."
+    "text": "Preprints\n\n\nLieb Z, Williams B, Letten A, Satake A, Numata S, Marshall A, Lim JY, Sumadijaya A, Chong KY, Brearley F, Webb C, McConkey K, Sakai S, Brodie J, O’Brien M, Cosby O, Harrison M, Wearn O, Burslem D, Granados A, Campbell-Smith G, Sánchez K, Bodos V, Heon SP, Wittmer H, Setiawan E, Knott C, Mohd-Azlan J, Azhar B, McShea W, Banin L, Luskin M (2026). Five decades of observations reveal regional features of synchronised masting across Southeast Asia. Research Square.\nTseng YP, Engelstädter J, Letten AD (2026). Metabolic switching promotes microbial coexistence under fluctuating resources. bioRxiv.\nLetten AD, Orr JA, Engelstädter J, Held NA, Klausmeier C, Manhart M, Stouffer DB (2026). Shifting resource limitation explains multiphasic patterns of density dependence. bioRxiv.\nNgô LN, Letten AD, Engelstädter J (2026). Mutations associated with streptomycin resistance predicted to be highly prevalent and evolvable across bacteria. bioRxiv.\nWilliams AH, Gooi I, Boggan M, Liu Z, Letten AD, Engelstädter J (2025). Strong genotype-by-genotype and genotype-by-environment interactions induced by antibiotic resistance mutations. bioRxiv."
   },
   {
     "objectID": "publications.html#section",
@@ -187,5 +180,12 @@
     "title": "Publications",
     "section": "2009",
     "text": "2009\n\n\nLetten AD, Midgley JJ (2009). Rodent pollination in the Cape legume Liparia parva. Austral Ecology 34(2): 233-236."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Letten Lab",
+    "section": "",
+    "text": "Welcome to the Letten Lab at the University of Queensland. Our research broadly aims to increase fundamental understanding of microbial population dynamics and evolution, and to bring this knowledge to bear on problems of environmental and human health. We tackle this through a close integration of experiments, mathematical modelling and statistical learning. Our backgrounds span ecology, evolution, microbiology, bioinformatics, biochemistry, computer science, and mathematics.\nCurrent research in the group primarily orbits around three core research problems/gaps:\n\nUnderstanding how trade-offs in bacterial competitive fitness interact with environmental variability to mediate the evolution of antibiotic resistance.\nUnderstanding the role of nonequilibrium dynamics in regulating microbial community assembly.\nUnderstanding the shape of density dependence, from populations to ecosystems.\n\n\n\nRecent work\n\n\n\nOrr et al. (2026) Growth-density inversion in Escherichia coli reveals superlinear, not sublinear, density dependence, PLoS Biology.\n\n\n\nBolourchi et al. (2025) Evolution and evolvability of rifampicin resistance across the bacterial tree of life, PNAS, 122(31) e2424307122.\n\n\n\nLetten. (2025) Making sense of (sublinear) density dependence, Trends in Ecology & Evolution, 40(7) 622-625.\n\n\n\nRichardson, Engelstädter and Letten. (2025) A unifying principle for multispecies coexistence under resource fluctuations, PNAS, 122(24) e2424996122.\n\n\n\nOrr, Armitage and Letten. (2025) Coexistence theory for microbial ecology, and vice versa, Environmental Microbiology, 27(3) e70072.\n\n\n\nLetten et al. (2024) Microbial Dormancy Supports Multi-Species Coexistence Under Resource Fluctuations, Ecology Letters, 27(9) e14507.\n\n\nSee all publications"
   }
 ]
